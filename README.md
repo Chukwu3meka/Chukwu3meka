@@ -1,9 +1,9 @@
 # Hi, I'm Chukwuemeka <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/Chukwu3meka)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/Chukwu3meka/)
-[![Stack Overflow Badge](https://img.shields.io/badge/StackOverflow-Profile-informational?style=flat&logo=stackoverflow&logoColor=white&color=0D76A8)](https://stackoverflow.com/users/12490386)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/Chukwu3meka)
 [![Medium Badge](https://img.shields.io/badge/Medium-Profile-informational?style=flat&logo=medium&logoColor=white&color=0D76A8)](https://Chukwu3meka.medium.com/)
+[![Stack Overflow Badge](https://img.shields.io/badge/StackOverflow-Profile-informational?style=flat&logo=stackoverflow&logoColor=white&color=0D76A8)](https://stackoverflow.com/users/12490386)
 
 ## About Me 😎
 
