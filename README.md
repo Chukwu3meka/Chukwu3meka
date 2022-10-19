@@ -7,7 +7,11 @@
 
 ## About Me 😎
 
-I'd say, am a **Fullstack developer** 👻 I've worked on Mobile, Desktop and Web development 💬 I'm also a **Computer Science** graduate 🎓 am currently learning **Flutter** and also interested in **Cyber Security** 📚
+I'd say, am a **Fullstack developer** 👻 I've worked on Mobile, Desktop and Web development 💬 I'm also a **Computer Science** graduate 🎓 am currently learning **Flutter** and also interested in **Cyber Security** 📚\
+
+👀 I’m interested in \
+ 💞️ I’m looking to collaborate on Open source projects and startup\
+ 📫 How to reach me \
 
 #### Personal Projects ⚡
 
@@ -34,12 +38,12 @@ Next.js, MongoDB, Redux, Material-UI, Express.js and SASS
 
 ## Recent Posts📖
 
-- [A Practical Example Using MongoDB Atlas Search](https://javascript.plainenglish.io/a-practical-example-using-mongodb-atlas-search-144ab2d4ed78)
-- [How to Make a Contact Form with Nodemailer](https://javascript.plainenglish.io/contact-form-with-nodemailer-3bf217db9df8)
+- [A Practical Example Using MongoDB Atlas Search](https://chukwu3meka.medium.com/a-practical-example-using-mongodb-atlas-search-144ab2d4ed78)
 - [Software Developer interview preparation](viewcrunch.com/view/software-developer-interview-preparation-pRt9JzBJWGHjwmNuKSfV)
-- [Firebase social auth with latest SDK 9](https://blog.devgenius.io/firebase-social-authentication-with-latest-sdk-version-9-75e4eac57563)
-- [Firebase vs MongoDB: Which One is the Best for Your Next App?](https://medium.com/javascript-in-plain-english/firebase-or-mongodb-for-your-next-app-d2d6575b0714)
-- [Why you should start using Next.js](https://blog.devgenius.io/why-you-should-start-using-next-js-3241ad08b9f5)
+- [Firebase social auth with latest SDK 9](https://chukwu3meka.medium.com/firebase-social-authentication-with-latest-sdk-version-9-75e4eac57563)
+- [How to Make a Contact Form with Nodemailer](https://chukwu3meka.medium.com/contact-form-with-nodemailer-3bf217db9df8)
+- [Firebase vs MongoDB: Which One is the Best for Your Next App?](https://chukwu3meka.medium.com/firebase-or-mongodb-for-your-next-app-d2d6575b0714)
+- [Why you should start using Next.js](https://chukwu3meka.medium.com/why-you-should-start-using-next-js-3241ad08b9f5)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=chukwu3meka&theme=dracula&hide_border=true)
 
