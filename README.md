@@ -11,7 +11,7 @@ I'd say, am a **Fullstack developer** 👻 I've worked on Mobile, Desktop and We
 
 👀 I’m interested in working on Projects using Next.js and MongoDB\
  💞️ I’m looking to collaborate on Open source projects and startups\
- 📫 Reach me on [LinkedIN](https://www.linkedin.com/in/chukwu3meka/) or [Twitter](https://www.twitter.com/chukwu3meka) \
+ 📫 You can reach out to me on [LinkedIN](https://www.linkedin.com/in/chukwu3meka/) or [Twitter](https://www.twitter.com/chukwu3meka) \
 
 #### Personal Projects ⚡
 
