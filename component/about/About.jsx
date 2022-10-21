@@ -3,7 +3,7 @@ import Typography from "@mui/material/Typography";
 
 import { styles } from ".";
 
-const Contact = () => {
+const About = ({ articles }) => {
   return (
     <div className={styles.about}>
       <div>
@@ -47,49 +47,13 @@ const Contact = () => {
         </Typography>
         <Fade bottom>
           <ol>
-            <li>
-              <a
-                href="https://javascript.plainenglish.io/a-practical-example-using-mongodb-atlas-search-144ab2d4ed78"
-                rel="noopener noreferrer">
-                A Practical Example Using MongoDB Atlas Search
-              </a>
-            </li>
-            <li>
-              <a
-                href="https://www.viewcrunch.com/view/what-is-the-common-use-of-custom-server-in-nextjs-among-junior-developers-or-newbies-XlVGTN9nmr9HrP7M31Xz"
-                rel="noopener noreferrer">
-                What is the common use of custom server in nextjs
-              </a>
-            </li>
-            <li>
-              <a href="viewcrunch.com/view/software-developer-interview-preparation-pRt9JzBJWGHjwmNuKSfV" rel="noopener noreferrer">
-                Software Developer interview preparation
-              </a>
-            </li>
-            <li>
-              <a
-                href="https://blog.devgenius.io/firebase-social-authentication-with-latest-sdk-version-9-75e4eac57563"
-                rel="noopener noreferrer">
-                Firebase social authentication with latest SDK version 9
-              </a>
-            </li>
-            <li>
-              <a href="https://blog.devgenius.io/why-you-should-start-using-next-js-3241ad08b9f5" rel="noopener noreferrer">
-                Why you should start using Next.js
-              </a>
-            </li>
-            <li>
-              <a href="https://javascript.plainenglish.io/firebase-or-mongodb-for-your-next-app-d2d6575b0714" rel="noopener noreferrer">
-                Firebase vs MongoDB: Which One is the Best for Your Next App?
-              </a>
-            </li>
-            <li>
-              <a
-                href="https://www.viewcrunch.com/view/introduction-to-client-side-rendering(csr)-and-server-side-rendering-in-react-with-focus-on-nextjs-1gCTlYB91iYOQIDYyLUw"
-                rel="noopener noreferrer">
-                Introduction to Client Side Rendering(CSR) and Server Side Rendering
-              </a>
-            </li>
+            {articles.map(({ title, link }) => (
+              <li key={title}>
+                <a href={link} rel="noopener noreferrer">
+                  {title}
+                </a>
+              </li>
+            ))}
           </ol>
         </Fade>
       </div>
@@ -97,4 +61,4 @@ const Contact = () => {
   );
 };
 
-export default Contact;
+export default About;
