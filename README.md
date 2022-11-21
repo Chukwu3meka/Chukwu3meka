@@ -1,4 +1,6 @@
-# Hi, I'm Chukwuemeka <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+### Hi, I'm Chukwuemeka <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+
+---
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/Chukwu3meka/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/Chukwu3meka)
@@ -7,9 +9,19 @@
 
 ## About Me 😎
 
-I'd say, am a **Fullstack developer** 👻 I've worked on Mobile, Desktop and Web development 💬 I'm also a **Computer Science** graduate 🎓 am currently learning **Flutter** and also interested in **Cyber Security** 📚
 
-#### Personal Projects ⚡
+
+
+
+👻 I'm a **Fullstack developer**\
+💬 I've worked on Mobile, Desktop and Web development\
+🎓 I'm also a **Computer Science** graduate\
+📚 Currently learning **Flutter** and also practicing **Software Security**\
+👀 I’m interested in working on Projects using Next.js and MongoDB\
+💞️ I’m looking to collaborate on Open source Projects and startups\
+📫 You can reach out to me on [LinkedIN](https://www.linkedin.com/in/chukwu3meka/) or [Twitter](https://www.twitter.com/chukwu3meka)
+
+#### Current Projects ⚡
 
 1. [🎯 Atlas Search Translation](https://atlassearchtranslation.com/): Instantly translates words, phrases,documents and web pages between English, French and Spanish. Tools used include Next.js, Express.and MongoDB Atlas Search [Github Repo](https://github.com/Chukwu3meka/Atlas-Search-Translation)
 
@@ -32,14 +44,14 @@ Next.js, MongoDB, Redux, Material-UI, Express.js and SASS
 
 </p>
 
-## Recent Posts📖
+## Recent Posts 📖
 
-- [A Practical Example Using MongoDB Atlas Search](https://javascript.plainenglish.io/a-practical-example-using-mongodb-atlas-search-144ab2d4ed78)
-- [How to Make a Contact Form with Nodemailer](https://javascript.plainenglish.io/contact-form-with-nodemailer-3bf217db9df8)
+- [A Practical Example Using MongoDB Atlas Search](https://chukwu3meka.medium.com/a-practical-example-using-mongodb-atlas-search-144ab2d4ed78)
 - [Software Developer interview preparation](viewcrunch.com/view/software-developer-interview-preparation-pRt9JzBJWGHjwmNuKSfV)
-- [Firebase social auth with latest SDK 9](https://blog.devgenius.io/firebase-social-authentication-with-latest-sdk-version-9-75e4eac57563)
-- [Firebase vs MongoDB: Which One is the Best for Your Next App?](https://medium.com/javascript-in-plain-english/firebase-or-mongodb-for-your-next-app-d2d6575b0714)
-- [Why you should start using Next.js](https://blog.devgenius.io/why-you-should-start-using-next-js-3241ad08b9f5)
+- [Firebase social auth with latest SDK 9](https://chukwu3meka.medium.com/firebase-social-authentication-with-latest-sdk-version-9-75e4eac57563)
+- [How to Make a Contact Form with Nodemailer](https://chukwu3meka.medium.com/contact-form-with-nodemailer-3bf217db9df8)
+- [Firebase vs MongoDB: Which One is the Best for Your Next App?](https://chukwu3meka.medium.com/firebase-or-mongodb-for-your-next-app-d2d6575b0714)
+- [Why you should start using Next.js](https://chukwu3meka.medium.com/why-you-should-start-using-next-js-3241ad08b9f5)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=chukwu3meka&theme=dracula&hide_border=true)
 
@@ -48,11 +60,6 @@ Next.js, MongoDB, Redux, Material-UI, Express.js and SASS
 <p align="center">
 <a href="https://www.buymeacoffee.com/chukwu3meka" rel="noopener noreferrer" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="70" ></a>
 </p> -->
-
- <!-- 👀 I’m interested in ... -->
- <!-- 💞️ I’m looking to collaborate on ... -->
- <!-- 📫 How to reach me ... --> -->
-<!-- 🚀🤖 🎨 -->
 
 <!-- Attention: Next.js now collects completely anonymous telemetry regarding usage.
 This information is used to shape Next.js' roadmap and prioritize features.
