@@ -2,21 +2,19 @@
 
 ---
 
-###### 😎 About Me
+Hey there! I'm a **Fullstack developer** 😎 with a focus on Frontend development, currently building internal apps. Recently, I've worked personally on Mobile, Desktop and Web development, 🎓 I'm also a **Computer Science** graduate
 
-Hey there! I'm a **Fullstack developer** with a focus on Frontend development, currently building internal apps. Recently, I've worked personally on Mobile, Desktop and Web development, 🎓 I'm also a **Computer Science** graduate
-
-👀 I’m currently working on economic projects using Next.js and MongoDB\
-📫 You can reach out to me on [LinkedIN](https://www.linkedin.com/in/chukwu3meka/) or [Twitter](https://www.twitter.com/chukwu3meka)
-💞️ I’m looking to collaborate on Open source Projects\
-📚 Currently learning **Flutter** and also practicing **Software Security**
+- 👀 I’m currently working on economic projects using Next.js and MongoDB\
+- 📫 You can reach out to me on [LinkedIN](https://www.linkedin.com/in/chukwu3meka/) or [Twitter](https://www.twitter.com/chukwu3meka)
+- 💞️ I’m looking to collaborate on Open source Projects\
+- 📚 Currently learning **Flutter** and also practicing **Software Security**
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/Chukwu3meka/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/Chukwu3meka)
 [![Medium Badge](https://img.shields.io/badge/Medium-Profile-informational?style=flat&logo=medium&logoColor=white&color=0D76A8)](https://Chukwu3meka.medium.com/)
 [![Stack Overflow Badge](https://img.shields.io/badge/StackOverflow-Profile-informational?style=flat&logo=stackoverflow&logoColor=white&color=0D76A8)](https://stackoverflow.com/users/12490386)
 
-###### Ongoing Personal Projects ⚡
+### Ongoing Personal Projects ⚡
 
 1. [🎯 Atlas Search Translation](https://atlassearchtranslation.com/): Powered by MongoDB Atlas Search. Atlas Search Translation instantly translates words, phrases between different Languages. Tools used include Next.js, Express.js and MongoDB [Github Repo](https://github.com/Chukwu3meka/Atlas-Search-Translation)
 
@@ -24,7 +22,7 @@ Hey there! I'm a **Fullstack developer** with a focus on Frontend development, c
 
 3. [📅 ViewCrunch](https://www.viewcrunch.com/): is a blog where user can upload their views, like/dislike other views, etc. NEWS page updates daily via _rapidapi_ endpoints. Next.JS, Firebase, Material-UI and SASS. [Github Repo](https://github.com/Chukwu3meka/ViewCrunch)
 
-###### ⚙️ Favourite tools ⚒️
+### ⚙️ Favourite tools ⚒️
 
 Next.js, MongoDB, Redux, Material-UI, Express.js and SASS
 
@@ -37,7 +35,7 @@ Next.js, MongoDB, Redux, Material-UI, Express.js and SASS
 
 </p>
 
-###### Recent Blog Posts 📖
+### Recent Blog Posts 📖
 
 - [A Practical Example Using MongoDB Atlas Search](https://chukwu3meka.medium.com/a-practical-example-using-mongodb-atlas-search-144ab2d4ed78)
 - [Software Developer interview preparation](viewcrunch.com/view/software-developer-interview-preparation-pRt9JzBJWGHjwmNuKSfV)
