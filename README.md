@@ -1,4 +1,6 @@
-# Hi, I'm Chukwuemeka <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+### Hi, I'm Chukwuemeka <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+
+---
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/Chukwu3meka/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/Chukwu3meka)
@@ -6,6 +8,10 @@
 [![Stack Overflow Badge](https://img.shields.io/badge/StackOverflow-Profile-informational?style=flat&logo=stackoverflow&logoColor=white&color=0D76A8)](https://stackoverflow.com/users/12490386)
 
 ## About Me 😎
+
+
+
+
 
 👻 I'm a **Fullstack developer**\
 💬 I've worked on Mobile, Desktop and Web development\
@@ -15,7 +21,7 @@
 💞️ I’m looking to collaborate on Open source Projects and startups\
 📫 You can reach out to me on [LinkedIN](https://www.linkedin.com/in/chukwu3meka/) or [Twitter](https://www.twitter.com/chukwu3meka)
 
-#### Personal Projects ⚡
+#### Current Projects ⚡
 
 1. [🎯 Atlas Search Translation](https://atlassearchtranslation.com/): Instantly translates words, phrases,documents and web pages between English, French and Spanish. Tools used include Next.js, Express.and MongoDB Atlas Search [Github Repo](https://github.com/Chukwu3meka/Atlas-Search-Translation)
 
