@@ -22,6 +22,8 @@ Hey there! I'm a **Fullstack developer** 😎 with a focus on Frontend developme
 
 3. [📅 ViewCrunch](https://www.viewcrunch.com/): is a blog where user can upload their views, like/dislike other views, etc. NEWS page updates daily via _rapidapi_ endpoints. Next.JS, Firebase, Material-UI and SASS. [Github Repo](https://github.com/Chukwu3meka/ViewCrunch)
 
+---
+
 ### ⚒️ Favourite tools ⚙️
 
 Next.js, MongoDB, Redux, Material-UI, Express.js and SASS
