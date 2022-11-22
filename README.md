@@ -1,6 +1,6 @@
 ### Hi, I'm Chukwuemeka <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-Hey there! I'm a **Fullstack developer** 😎 with a focus on Frontend development, currently building and maintaining internal apps at Zenith bank. Recently, I've worked personally on Mobile, Desktop and Web development, 🎓 I'm also a **Computer Science** graduate.
+Hey there! I'm a **Fullstack developer** 😎 with a focus on Frontend development, currently building and maintaining internal apps at Zenith bank. Recently, I've worked personally on Mobile, Desktop and Web development, I'm also a **Computer Science** graduate 🎓.
 
 - 👀 I’m currently working on economic projects using Next.js and MongoDB
 - 📫 You can reach out to me on [LinkedIN](https://www.linkedin.com/in/chukwu3meka/) or [Twitter](https://www.twitter.com/chukwu3meka)
@@ -14,7 +14,7 @@ Hey there! I'm a **Fullstack developer** 😎 with a focus on Frontend developme
 
 ---
 
-### Ongoing Personal Projects ⚡
+### ⚡ Ongoing Personal Projects 👀
 
 1. [🎯 Atlas Search Translation](https://atlassearchtranslation.com/): Powered by MongoDB Atlas Search. Atlas Search Translation instantly translates words, phrases between different Languages. Tools used include Next.js, Express.js and MongoDB [Github Repo](https://github.com/Chukwu3meka/Atlas-Search-Translation)
 
@@ -22,7 +22,7 @@ Hey there! I'm a **Fullstack developer** 😎 with a focus on Frontend developme
 
 3. [📅 ViewCrunch](https://www.viewcrunch.com/): is a blog where user can upload their views, like/dislike other views, etc. NEWS page updates daily via _rapidapi_ endpoints. Next.JS, Firebase, Material-UI and SASS. [Github Repo](https://github.com/Chukwu3meka/ViewCrunch)
 
-### ⚙️ Favourite tools ⚒️
+### ⚒️ Favourite tools ⚙️
 
 Next.js, MongoDB, Redux, Material-UI, Express.js and SASS
 
@@ -53,7 +53,7 @@ Next.js, MongoDB, Redux, Material-UI, Express.js and SASS
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=chukwu3meka&theme=dracula&hide_border=true)
 
 <!-- ## 💰 Support Me 👋
- 👻 💬 🎓 📚 👀 💞️ 📫
+ 👻 💬 🎓 📚  💞️ 📫
 <p align="center">
 
 <a href="https://www.buymeacoffee.com/chukwu3meka" rel="noopener noreferrer" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="70" ></a>
