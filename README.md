@@ -2,7 +2,7 @@
 
 ---
 
-Hey there! I'm a **Fullstack developer** 😎 with a focus on Frontend development, currently building and maintaining internal apps at Zenith bank. Recently, I've worked personally on Mobile, Desktop and Web development, 🎓 I'm also a **Computer Science** graduate.
+Hey there! I'm a **Fullstack developer** 😎 with a focus on Frontend development, currently building internal apps. Recently, I've worked personally on Mobile, Desktop and Web development, 🎓 I'm also a **Computer Science** graduate
 
 - 👀 I’m currently working on economic projects using Next.js and MongoDB\
 - 📫 You can reach out to me on [LinkedIN](https://www.linkedin.com/in/chukwu3meka/) or [Twitter](https://www.twitter.com/chukwu3meka)
@@ -26,8 +26,6 @@ Hey there! I'm a **Fullstack developer** 😎 with a focus on Frontend developme
 
 Next.js, MongoDB, Redux, Material-UI, Express.js and SASS
 
----
-
 <p align="center">
 <img height="180px"  src="https://github-readme-stats.vercel.app/api/top-langs?username=Chukwu3meka&show_icons=true&locale=en&layout=compact" alt="Chukwu3meka" />
 
@@ -37,8 +35,6 @@ Next.js, MongoDB, Redux, Material-UI, Express.js and SASS
 
 </p>
 
----
-
 ### Recent Blog Posts 📖
 
 - [A Practical Example Using MongoDB Atlas Search](https://chukwu3meka.medium.com/a-practical-example-using-mongodb-atlas-search-144ab2d4ed78)
@@ -47,10 +43,7 @@ Next.js, MongoDB, Redux, Material-UI, Express.js and SASS
 - [How to Make a Contact Form with Nodemailer](https://chukwu3meka.medium.com/contact-form-with-nodemailer-3bf217db9df8)
 - [Firebase vs MongoDB: Which One is the Best for Your Next App?](https://chukwu3meka.medium.com/firebase-or-mongodb-for-your-next-app-d2d6575b0714)
 - [Why you should start using Next.js](https://chukwu3meka.medium.com/why-you-should-start-using-next-js-3241ad08b9f5)
-
-<br/>
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=chukwu3meka&theme=dracula&hide_border=true)
+  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=chukwu3meka&theme=dracula&hide_border=true)
 
 <!-- ## 💰 Support Me 👋
  👻 💬 🎓 📚 👀 💞️ 📫
