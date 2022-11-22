@@ -2,9 +2,9 @@
 
 Hey there! I'm a **Fullstack developer** 😎 with a focus on Frontend development, currently building and maintaining internal apps at Zenith bank. Recently, I've worked personally on Mobile, Desktop and Web development, 🎓 I'm also a **Computer Science** graduate.
 
-- 👀 I’m currently working on economic projects using Next.js and MongoDB\
+- 👀 I’m currently working on economic projects using Next.js and MongoDB
 - 📫 You can reach out to me on [LinkedIN](https://www.linkedin.com/in/chukwu3meka/) or [Twitter](https://www.twitter.com/chukwu3meka)
-- 💞️ I’m looking to collaborate on Open source Projects\
+- 💞️ I’m looking to collaborate on Open source Projects
 - 📚 Currently learning **Flutter** and also practicing **Software Security**
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/Chukwu3meka/)
