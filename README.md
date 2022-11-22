@@ -12,6 +12,8 @@ Hey there! I'm a **Fullstack developer** 😎 with a focus on Frontend developme
 [![Medium Badge](https://img.shields.io/badge/Medium-Profile-informational?style=flat&logo=medium&logoColor=white&color=0D76A8)](https://Chukwu3meka.medium.com/)
 [![Stack Overflow Badge](https://img.shields.io/badge/StackOverflow-Profile-informational?style=flat&logo=stackoverflow&logoColor=white&color=0D76A8)](https://stackoverflow.com/users/12490386)
 
+---
+
 ### Ongoing Personal Projects ⚡
 
 1. [🎯 Atlas Search Translation](https://atlassearchtranslation.com/): Powered by MongoDB Atlas Search. Atlas Search Translation instantly translates words, phrases between different Languages. Tools used include Next.js, Express.js and MongoDB [Github Repo](https://github.com/Chukwu3meka/Atlas-Search-Translation)
