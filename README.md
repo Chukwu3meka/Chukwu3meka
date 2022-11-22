@@ -24,12 +24,6 @@ Hey there! I'm a **Fullstack developer** 😎 with a focus on Frontend developme
 
 ---
 
-### ⚒️ Favourite tools ⚙️
-
-Next.js, MongoDB, Redux, Material-UI, Express.js and SASS
-
----
-
 <p align="center">
 <img height="180px"  src="https://github-readme-stats.vercel.app/api/top-langs?username=Chukwu3meka&show_icons=true&locale=en&layout=compact" alt="Chukwu3meka" />
 
@@ -41,7 +35,7 @@ Next.js, MongoDB, Redux, Material-UI, Express.js and SASS
 
 ---
 
-### Recent Blog Posts 📖
+### 📖 Recent Blog Posts 💬
 
 - [A Practical Example Using MongoDB Atlas Search](https://chukwu3meka.medium.com/a-practical-example-using-mongodb-atlas-search-144ab2d4ed78)
 - [Software Developer interview preparation](viewcrunch.com/view/software-developer-interview-preparation-pRt9JzBJWGHjwmNuKSfV)
@@ -54,8 +48,12 @@ Next.js, MongoDB, Redux, Material-UI, Express.js and SASS
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=chukwu3meka&theme=dracula&hide_border=true)
 
+### ⚒️ Favourite tools ⚙️
+
+Next.js, MongoDB, Redux, Material-UI, Express.js and SASS
+
 <!-- ## 💰 Support Me 👋
- 👻 💬 🎓 📚  💞️ 📫
+ 👻  📚  💞️ 📫
 <p align="center">
 
 <a href="https://www.buymeacoffee.com/chukwu3meka" rel="noopener noreferrer" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="70" ></a>
