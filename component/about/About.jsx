@@ -32,10 +32,13 @@ const About = ({ articles }) => {
               <Typography component="span">NodeJS, Express, Mongo DB, Firebase and Atlas Search</Typography>
             </li>
             <li>
-              <Typography component="span">React, Next JS, Redux, Material-UI, SASS/SCSS, and CSS3</Typography>
+              <Typography component="span">React, Next.JS, Redux, Svelte and Angular</Typography>
             </li>
             <li>
-              <Typography component="span">socket.io, oAuth, JWT, Version Control</Typography>
+              <Typography component="span">Material-UI, SASS/SCSS, and CSS3</Typography>
+            </li>
+            <li>
+              <Typography component="span">Socket.io, oAuth, JWT, Version Control System(git) </Typography>
             </li>
           </ul>
         </Fade>
