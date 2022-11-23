@@ -1,6 +1,6 @@
 ### Hi, I'm Chukwuemeka <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-Hey there! I'm a **Fullstack developer** 😎 with a focus on Frontend development, currently building and maintaining internal apps at Zenith bank. Recently, I've worked personally on Mobile, Desktop and Web development, I'm also a **Computer Science** graduate 🎓.
+Hey there! I'm a **Fullstack developer** 😎 with a strong focus on Frontend development, currently building and maintaining internal apps at Zenith bank. Recently, I've worked personally on Mobile, Desktop and Web development, I'm also a **Computer Science** graduate 🎓.
 
 - 👀 I’m currently working on economic projects using Next.js and MongoDB
 - 📫 You can reach out to me on [LinkedIN](https://www.linkedin.com/in/chukwu3meka/) or [Twitter](https://www.twitter.com/chukwu3meka)
