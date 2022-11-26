@@ -16,15 +16,15 @@ const Intro = ({ socialLink, profilePicStyle }) => (
     </RubberBand>
 
     <Typography component="h2" variant="body1" textAlign="justify" sx={{ textAlignLast: "center", my: 2 }} color="#444343">
-      Hey there! I'm a **Fullstack developer** 😎 with a strong focus on Frontend development, currently building and maintaining
-      internal apps at Zenith bank. Recently, I've worked personally on Mobile, Desktop and Web development, I'm also a **Computer
-      Science** graduate 🎓.
+      Hey there! I'm a <b>Fullstack developer</b> 😎 with a strong focus on Frontend development. I'm currently building and maintaining
+      internal apps at Zenith bank. I've worked recently on - <b>Web Apps</b>: Next.js(React Framework), Svelte and Angular, <b>APIs</b>:
+      RESTful APIs and GraphQL, <b>Server</b>: Express.js (Node.js Framework), <b>Mobile Apps</b>: Flutter &amp; React Native, and{" "}
+      <b>Desktop Apps</b>: Electron.js. I'm also a <b>Computer Science</b> graduate 🎓.
       <br />
-      <br />
-      - 👀 I’m currently working on economic projects using Next.js and MongoDB
       <br />
       - 💞️ I’m looking to collaborate on Open source Projects
-      <br />- 📚 Currently learning **Flutter** and also practicing **Software Security**
+      <br />- 📚 I’m Currently learning <b>Flutter</b> and also <b>Software Security</b>
+      <br />- 💰 I’m currently working on an interesting project that will be made public soon 👀 using Next.js and MongoDB
       {/* I’m a Full stack Developer with {new Date().getFullYear() - 2018} years experience in blending the art of design with a programming
       talent to deliver engaging user experiences through efficient design, development, proactive feature optimization, and relentless
       debugging, with adequate security in place. I find my strength at the Frontend, and as a React(Next.Js) developer who enjoys using
