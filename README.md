@@ -1,11 +1,11 @@
-### Hi, I'm Chukwuemeka <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+### Hi, [I'm Chukwuemeka](https://chukwuemeka.vercel.app/) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-Hey there! I'm a **Fullstack developer** 😎 with a strong focus on Frontend development, currently building and maintaining internal apps at Zenith bank. Recently, I've worked personally on Mobile, Desktop and Web development, I'm also a **Computer Science** graduate 🎓.
+Hey there! I'm a **Fullstack developer** 😎 with a strong focus on Frontend development. I'm currently building and maintaining internal apps at Zenith bank. I've worked recently on - **Web Apps**: Next.js(React Framework), Svelte and Angular, **APIs**: RESTful APIs and GraphQL, **Server**: Express.js (Node.js Framework), **Mobile Apps**: Flutter & React Native, and **Desktop Apps**: Electron.js. I'm also a **Computer Science** graduate 🎓.
 
-- 👀 I’m currently working on economic projects using Next.js and MongoDB
-- 📫 You can reach out to me on [LinkedIN](https://www.linkedin.com/in/chukwu3meka/) or [Twitter](https://www.twitter.com/chukwu3meka)
 - 💞️ I’m looking to collaborate on Open source Projects
-- 📚 Currently learning **Flutter** and also practicing **Software Security**
+- 📚 I’m Currently learning **Flutter** and also **Software Security**
+- 📫 You can reach out to [me](https://chukwuemeka.vercel.app/) on [LinkedIN](https://www.linkedin.com/in/chukwu3meka/) [Twitter](https://www.twitter.com/chukwu3meka)
+- 💰 I’m currently working on an interesting project that will be made public soon 👀 using Next.js and MongoDB
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/Chukwu3meka/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/Chukwu3meka)
@@ -52,8 +52,7 @@ Hey there! I'm a **Fullstack developer** 😎 with a strong focus on Frontend de
 
 Next.js, MongoDB, Redux, Material-UI, Express.js and SASS
 
-<!-- ## 💰 Support Me 👋
- 👻  📚  💞️ 📫
+<!-- ##  Support Me 👋👻
 <p align="center">
 
 <a href="https://www.buymeacoffee.com/chukwu3meka" rel="noopener noreferrer" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="70" ></a>
