@@ -4,8 +4,8 @@ Hey there! I'm a **Fullstack developer** 😎 with a strong focus on Frontend de
 
 - 💞️ I’m looking to collaborate on Open source Projects
 - 📚 I’m Currently learning **Flutter** and also **Software Security**
-- 📫 You can reach out to [me](https://chukwuemeka.vercel.app/) on [LinkedIN](https://www.linkedin.com/in/chukwu3meka/) [Twitter](https://www.twitter.com/chukwu3meka)
 - 💰 I’m currently working on an interesting project that will be made public soon 👀 using Next.js and MongoDB
+- 📫 You can reach out to [me](https://chukwuemeka.vercel.app/) on [LinkedIN](https://www.linkedin.com/in/chukwu3meka/) [Twitter](https://www.twitter.com/chukwu3meka)
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/Chukwu3meka/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/Chukwu3meka)
@@ -24,14 +24,9 @@ Hey there! I'm a **Fullstack developer** 😎 with a strong focus on Frontend de
 
 ---
 
-<p align="center">
-<img height="180px"  src="https://github-readme-stats.vercel.app/api/top-langs?username=Chukwu3meka&show_icons=true&locale=en&layout=compact" alt="Chukwu3meka" />
+### ⚒️ Favourite tools ⚙️
 
-<img height="180px"  src="https://github-readme-stats.vercel.app/api?username=Chukwu3meka&show_icons=true&locale=en" alt="Chukwu3meka" />
-
-<img  height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=Chukwu3meka&theme=highcontrast&hide_border=true" alt="Chukwu3meka" />
-
-</p>
+Next.js, MongoDB, Redux, Material-UI, Express.js and SCSS
 
 ---
 
@@ -44,13 +39,21 @@ Hey there! I'm a **Fullstack developer** 😎 with a strong focus on Frontend de
 - [Firebase vs MongoDB: Which One is the Best for Your Next App?](https://chukwu3meka.medium.com/firebase-or-mongodb-for-your-next-app-d2d6575b0714)
 - [Why you should start using Next.js](https://chukwu3meka.medium.com/why-you-should-start-using-next-js-3241ad08b9f5)
 
+---
+
+<p align="center">
+
+<img height="180px"  src="https://github-readme-stats.vercel.app/api/top-langs?username=Chukwu3meka&show_icons=true&locale=en&layout=compact" alt="Chukwu3meka" />
+
+<img height="180px"  src="https://github-readme-stats.vercel.app/api?username=Chukwu3meka&show_icons=true&locale=en" alt="Chukwu3meka" />
+
+<img  height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=Chukwu3meka&theme=highcontrast&hide_border=true" alt="Chukwu3meka" />
+
+</p>
+
 <br/>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=chukwu3meka&theme=dracula&hide_border=true)
-
-### ⚒️ Favourite tools ⚙️
-
-Next.js, MongoDB, Redux, Material-UI, Express.js and SASS
 
 <!-- ##  Support Me 👋👻
 <p align="center">
