@@ -4,7 +4,7 @@ Hey there! I'm a **Fullstack developer** 😎 with a strong focus on Frontend de
 
 - 💞️ I’d like to collaborate on projects built using Next.js and MongoDB
 - 📚 I’m currently learning **Flutter** and also **Software Security**
-- 📫 You can reach out to [me](https://chukwuemeka.vercel.app/) on [LinkedIN](https://www.linkedin.com/in/chukwu3meka/) [Twitter](https://www.twitter.com/chukwu3meka)
+- 📫 You can reach out to [me](https://chukwuemeka.vercel.app/) on [LinkedIN](https://www.linkedin.com/in/chukwu3meka/) or [Twitter](https://www.twitter.com/chukwu3meka)
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/Chukwu3meka/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/Chukwu3meka)
