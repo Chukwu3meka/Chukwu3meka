@@ -1,6 +1,6 @@
 ### Hi, [I'm Chukwuemeka](https://chukwuemeka.vercel.app/) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-Hey there! I'm a **Fullstack developer** 😎 with a strong focus on Frontend development. I'm currently building and maintaining internal apps at Zenith bank. I've worked recently on - **Web Apps** using Next.js(React Framework), Svelte and Angular, **APIs**: RESTful APIs and GraphQL, **Server**: Express.js (Node.js Framework), **Mobile Apps**: Flutter & React Native, and **Desktop Apps**: Electron.js. I'm also a **Computer Science** graduate 🎓.
+Hey there! I'm a **Fullstack developer** 😎 with a strong focus on Frontend development. I'm currently building and maintaining internal apps at Zenith Bank. I've worked recently on - **Web Apps** using Next.js(React Framework), Svelte and Angular, **APIs**: RESTful APIs and GraphQL, **Server**: Express.js (Node.js Framework), **Mobile Apps**: Flutter & React Native, and **Desktop Apps**: Electron.js. I'm also a **Computer Science** graduate 🎓
 
 - 💞️ I’d like to collaborate on projects built using Next.js and MongoDB
 - 📚 I’m currently learning **Flutter** and also **Software Security**
