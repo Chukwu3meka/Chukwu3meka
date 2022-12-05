@@ -51,8 +51,9 @@ Next.js, MongoDB, Redux, Material-UI, Express.js and SCSS
 </p>
 
 <br/>
+<br/>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=chukwu3meka&theme=dracula&hide_border=true)
+<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=chukwu3meka&theme=dracula&hide_border=true) -->
 
 <!-- ##  Support Me 👋👻👀 💰
 <p align="center">
