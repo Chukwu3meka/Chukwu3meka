@@ -44,7 +44,7 @@ Hey there! I'm a **Fullstack developer** 😎 with a strong focus on Frontend de
 
 <p align="center">
 
-<img height="80px"  src="https://stackoverflow-readme-profile.johannchopin.fr/profile/12490386?theme=dark&website=true&location=true" alt="Chukwu3meka" />
+<img height="120px"  src="https://stackoverflow-readme-profile.johannchopin.fr/profile/12490386?theme=dark&website=true&location=true" alt="Chukwu3meka" />
 
 </p>
 
