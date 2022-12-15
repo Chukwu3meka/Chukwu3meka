@@ -42,7 +42,7 @@ Hey there! I'm a **Fullstack developer** 😎 with a strong focus on Frontend de
 
 ---
 
-<div style="text-align:center">
+<div style="text-align:center;width:100%">
 
 ![Stackoverflow Profile](https://stackoverflow-readme-profile.johannchopin.fr/profile/12490386?theme=dark&website=true&location=true)
 
