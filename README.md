@@ -42,13 +42,20 @@ Hey there! I'm a **Fullstack developer** 😎 with a strong focus on Frontend de
 
 ---
 
-<p align="center">
+<div style="text-align:center">
 
 ![Stackoverflow Profile](https://stackoverflow-readme-profile.johannchopin.fr/profile/12490386?theme=dark&website=true&location=true)
+
+</div>
+
+<p align="center">
 
 <img height="180px"  src="https://github-readme-stats.vercel.app/api/top-langs?username=Chukwu3meka&show_icons=true&locale=en&layout=compact" alt="Chukwu3meka" />
 
 <img height="180px"  src="https://github-readme-stats.vercel.app/api?username=Chukwu3meka&show_icons=true&locale=en" alt="Chukwu3meka" />
+</p>
+
+<p align="center">
 
 <img  height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=Chukwu3meka&theme=highcontrast&hide_border=true" alt="Chukwu3meka" />
 
