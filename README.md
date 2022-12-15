@@ -25,7 +25,9 @@ Hey there! I'm a **Fullstack developer** 😎 with a strong focus on Frontend de
 
 ### ⚒️ Favourite tools ⚙️
 
-Next.js, MongoDB, Redux, Material-UI, Express.js and SCSS
+> **Languages**: JavaScript, TypeScript and Dart
+
+> **Tools**: Next.js, MongoDB, Redux, Material-UI, Express.js and SCSS
 
 ---
 
@@ -41,6 +43,8 @@ Next.js, MongoDB, Redux, Material-UI, Express.js and SCSS
 ---
 
 <p align="center">
+
+![Stackoverflow Profile](https://stackoverflow-readme-profile.johannchopin.fr/profile/12490386?theme=dark&website=true&location=true)
 
 <img height="180px"  src="https://github-readme-stats.vercel.app/api/top-langs?username=Chukwu3meka&show_icons=true&locale=en&layout=compact" alt="Chukwu3meka" />
 
