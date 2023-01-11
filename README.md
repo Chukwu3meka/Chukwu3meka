@@ -1,10 +1,12 @@
 ### Hi, [I'm Chukwuemeka](https://chukwuemeka.vercel.app/) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-Hey there! I'm a **Fullstack developer** 😎 with a strong focus on Frontend development. I'm currently building and maintaining internal apps at Zenith Bank. I've worked recently on - **Web Apps** using Next.js(React Framework), Svelte and Angular, **APIs**: RESTful APIs and GraphQL, **Server**: Express.js (Node.js Framework), **Mobile Apps**: Flutter & React Native, and **Desktop Apps**: Electron.js. I'm also a **Computer Science** graduate 🎓
+Hey there! I'm a **Fullstack developer** 😎 with a strong focus on Frontend development. I'm currently building and maintaining internal apps at Zenith Bank. 💞️ I’d like to collaborate on projects built using Next.js and MongoDB 📚 I’m currently learning **Atlas Search** and also **Software Security** 📫 You can reach out to [me](https://chukwuemeka.vercel.app/) on [LinkedIN](https://www.linkedin.com/in/chukwu3meka/) or [Twitter](https://www.twitter.com/chukwu3meka). I'm also a **Computer Science** graduate 🎓 I've worked recently on:
 
-- 💞️ I’d like to collaborate on projects built using Next.js and MongoDB
-- 📚 I’m currently learning **Flutter** and also **Software Security**
-- 📫 You can reach out to [me](https://chukwuemeka.vercel.app/) on [LinkedIN](https://www.linkedin.com/in/chukwu3meka/) or [Twitter](https://www.twitter.com/chukwu3meka)
+- Web Apps: Next.js(React Framework), Svelte and Angular
+- APIs: RESTful APIs and GraphQL
+- Server: Express.js (Node.js Framework)
+- Mobile Apps: Flutter & React Native,
+- Desktop Apps: Electron.js.
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/Chukwu3meka/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/Chukwu3meka)
