@@ -21,7 +21,7 @@ Hey there! I'm a **Fullstack developer** 😎 with a strong focus on Frontend de
 
 1. [🎯 Atlas Search Translation](https://atlassearchtranslation.com/): Powered by MongoDB Atlas Search. Atlas Search Translation instantly translates words, phrases between different Languages. Tools used include Next.js, Express.js and MongoDB [Github Repo](https://github.com/Chukwu3meka/Atlas-Search-Translation)
 
-2. [🌱 SoccerMASS](https://www.soccermass.com/): powered by [SoccerMASS API](https://www.soccermass.com/public-api). SoccerMASS is an online gaming platform where you act as a club manager who makes transfer decision, sets formation and tactics, etc. SoccerMASS API provides endpoint to get football data ranging from clubs, players, countries, news etc. **Tools** include: Next.JS, MongoDB, Node.js, socket.io, MongoDB.[Web Repo](https://github.com/Chukwu3meka/SoccerMASS-Web) and [Server Repo](https://github.com/Chukwu3meka/SoccerMASS-Server)
+2. [🌱 SoccerMASS](https://www.soccermass.com/): powered by [SoccerMASS API](https://apihub.soccermass.com/). SoccerMASS is an online gaming platform where you act as a club manager who makes transfer decision, sets formation and tactics, etc. SoccerMASS API provides endpoint to get football data ranging from clubs, players, countries, news etc. **Tools** include: Next.JS, MongoDB, Node.js, socket.io, MongoDB.[Web Repo](https://github.com/Chukwu3meka/SoccerMASS-Web) and [Server Repo](https://github.com/Chukwu3meka/SoccerMASS-Server)
 
 3. [📅 ViewCrunch](https://www.viewcrunch.com/): is a blog where user can upload their views, like/dislike other views, etc. NEWS page updates daily via _rapidapi_ endpoints. Next.JS, Firebase, Material-UI and SASS. [Github Repo](https://github.com/Chukwu3meka/ViewCrunch)
 
