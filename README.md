@@ -1,12 +1,14 @@
 ### Hi, [I'm Chukwuemeka](https://chukwuemeka.vercel.app/) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-Hey there! I'm a **Fullstack developer** 😎 with a strong focus on Frontend development. I'm currently building and maintaining internal apps at Zenith Bank. 💞️ I’d like to collaborate on projects built using Next.js and MongoDB 📚 I’m currently learning **Atlas Search** and also **Software Security** 📫 You can reach out to [me](https://chukwuemeka.vercel.app/) on [LinkedIN](https://www.linkedin.com/in/chukwu3meka/) or [Twitter](https://www.twitter.com/chukwu3meka). I'm also a **Computer Science** graduate 🎓 I've worked recently on:
+Hey there! I'm a **Fullstack developer** 😎 with a strong focus on Frontend development. I'm currently building and maintaining internal apps at Zenith Bank. 💞️ I’d like to collaborate on projects built using Next.js and MongoDB 📚 I’m currently learning **Atlas Search** and also **Software Security** 📫 You can reach out to [me](https://chukwuemeka.vercel.app/) on [LinkedIN](https://www.linkedin.com/in/chukwu3meka/) or [Twitter](https://www.twitter.com/chukwu3meka). I'm also a **Computer Science** graduate 🎓
 
-- Web Apps: Next.js(React Framework), Svelte and Angular
-- APIs: RESTful APIs and GraphQL
-- Server: Express.js (Node.js Framework)
-- Mobile Apps: Flutter & React Native,
+> In no particular order, I've worked recently on:
+
 - Desktop Apps: Electron.js.
+- APIs: RESTful APIs and GraphQL
+- Mobile Apps: Flutter & React Native,
+- Web Apps: Next.js(React Framework), Svelte and Angular
+- Server: Express.js (Node.js Framework)
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/Chukwu3meka/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/Chukwu3meka)
@@ -27,9 +29,9 @@ Hey there! I'm a **Fullstack developer** 😎 with a strong focus on Frontend de
 
 ### ⚒️ Favourite tools ⚙️
 
-> **Languages**: JavaScript, TypeScript and Dart
+**Languages**: JavaScript, TypeScript and Dart
 
-> **Tools**: Next.js, MongoDB, Redux, Material-UI, Express.js and SCSS
+**Tools**: Next.js, MongoDB, Redux, Material-UI, Express.js and SCSS
 
 ---
 
