@@ -16,6 +16,7 @@ export default class MyDocument extends Document {
           <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
           <link href="https://fonts.googleapis.com/css2?family=Amiri:ital@1&amp;family=Cookie&amp;family=Creepster&amp;display=swap" rel="stylesheet" />
         </Head>
+
         <body style={{ margin: 0 }}>
           <Main />
           <NextScript />
