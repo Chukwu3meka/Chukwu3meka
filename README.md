@@ -1,8 +1,8 @@
 ### Hi, [I'm Chukwuemeka](https://chukwuemeka.vercel.app/) <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-Hey there! I'm a **Fullstack developer** 😎 with a strong focus on Frontend development. I'm currently building and maintaining internal apps at Zenith Bank. 💞️ I’d like to collaborate on projects built using Next.js and MongoDB 📚 I’m currently learning **Atlas Search** and also **Software Security** 📫 You can reach out to [me](https://chukwuemeka.vercel.app/) on [LinkedIN](https://www.linkedin.com/in/chukwu3meka/) or [Twitter](https://www.twitter.com/chukwu3meka). I'm also a **Computer Science** graduate 🎓
+Hi there! I am a skilled **Fullstack developer** with a focus on **Frontend development** 😎 Presently, I am developing and maintaining internal applications at Zenith Bank 💞️ I am excited to collaborate on projects utilizing Next.js and MongoDB 📚 I’m currently learning **Full-text Search** and **Software Security** 📫 You can connect with me via [LinkedIN](https://www.linkedin.com/in/chukwu3meka/) or [Twitter](https://www.twitter.com/chukwu3meka), or visit my website [here](https://chukwuemeka.vercel.app/). I hold a degree in Computer Science 🎓
 
-> In no particular order, I've worked recently on:
+> Here's a list of tools I've utilized, listed randomly.:
 
 - Desktop Apps: Electron.js.
 - Web Apps: Next.js, React, Svelte and Angular
@@ -17,13 +17,13 @@ Hey there! I'm a **Fullstack developer** 😎 with a strong focus on Frontend de
 
 ---
 
-### ⚡ Ongoing Personal Projects 👀
+### ⚡ Charming initiatives. 👀
 
-1. [🎯 Atlas Search Translation](https://atlassearchtranslation.com/): Powered by MongoDB Atlas Search. Atlas Search Translation instantly translates words, phrases between different Languages. Tools used include Next.js, Express.js and MongoDB [Github Repo](https://github.com/Chukwu3meka/Atlas-Search-Translation)
+1. [🌱 SoccerMASS](https://www.soccermass.com/) is a virtual management game where players assume the role of a club manager making transfer decisions, forming strategies, and more. Powered by [SoccerMASS API](https://apihub.soccermass.com/), We provide full-text search capabilities to enhance your app's functionality and comprehensive real-time football data, including club, player, country and competition information. [Github Repo](https://github.com/Chukwu3meka/SoccerMASS-Web)
 
-2. [🌱 SoccerMASS](https://www.soccermass.com/): powered by [SoccerMASS API](https://apihub.soccermass.com/). SoccerMASS is an online gaming platform where you act as a club manager who makes transfer decision, sets formation and tactics, etc. SoccerMASS API provides endpoint to get football data ranging from clubs, players, countries, news etc. **Tools** include: Next.JS, MongoDB, Node.js, socket.io, MongoDB.[Web Repo](https://github.com/Chukwu3meka/SoccerMASS-Web) and [Server Repo](https://github.com/Chukwu3meka/SoccerMASS-Server)
+2. [🎯 Atlas Search Translation](https://atlassearchtranslation.com/): Fueled by MongoDB Atlas Search, Atlas Search Translation provides swift translation of words and phrases across Spanish, French and English language. Tools used include Next.js, Express.js and MongoDB [Github Repo](https://github.com/Chukwu3meka/Atlas-Search-Translation)
 
-3. [📅 ViewCrunch](https://www.viewcrunch.com/): is a blog where user can upload their views, like/dislike other views, etc. NEWS page updates daily via _rapidapi_ endpoints. Next.JS, Firebase, Material-UI and SASS. [Github Repo](https://github.com/Chukwu3meka/ViewCrunch)
+3. [📅 ViewCrunch](https://www.viewcrunch.com/) is a platform where users can express their opinions/perspectives and interact/engage with others by liking/disliking views. The NEWS page is updated regularly via _rapidapi_ endpoints. Next.JS, Firebase, Material-UI and SASS. [Github Repo](https://github.com/Chukwu3meka/ViewCrunch)
 
 ---
 
