@@ -4,11 +4,11 @@ Hi there! I am a skilled **Fullstack developer** with a focus on **Frontend deve
 
 > Here's a list of tools I've utilized, listed randomly.:
 
-- **Desktop Apps**〰️ Electron.js.
-- **Web Apps**〰️ Next.js, React, Svelte and Angular
-- **APIs**〰️ RESTful APIs and GraphQL
-- **Server**〰️ Express.js (Node.js Framework)
-- **Mobile Apps**〰️ Flutter & React Native,
+- **Desktop Apps** 〰️ Electron.js.
+- **Web Apps** 〰️ Next.js, React, Svelte and Angular
+- **APIs** 〰️ RESTful APIs and GraphQL
+- **Server** 〰️ Express.js (Node.js Framework)
+- **Mobile Apps** 〰️ Flutter & React Native,
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/Chukwu3meka/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/Chukwu3meka)
