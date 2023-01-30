@@ -12,6 +12,10 @@ const About = ({ articles }) => {
         </Typography>
         <Fade bottom>
           <Typography component="p">
+            Building innovative solutions with code and creativity, I am a Fullstack Developer at Zenith Bank where I bring ideas to life. With a strong focus on Frontend
+            development, I have a track record of delivering cutting-edge internal apps for the bank. Explore my passion for technology on my Github profile at
+            https://github.com/chukwu3meka and follow me on my journey as a developer.
+            <br />
             My love for computers drives me to continuously explore new tools and techniques through self-study, tutorials, and professional guidance. I strive to deepen my
             understanding of subjects that captivate me, particularly in the areas of web, mobile, software development, and cybersecurity. I take pleasure in enhancing my skills
             and acquiring new ones in these fields.
