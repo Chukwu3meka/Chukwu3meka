@@ -12,10 +12,9 @@ const About = ({ articles }) => {
         </Typography>
         <Fade bottom>
           <Typography component="p">
-            My passion has always been to work with Computer as a tool, My curiosity has pushed me to learning new tools either through
-            Tutorials, eBooks or from Professionals and put them to practice. I try to gain knowledge on things that I find fascinating,
-            and I've always enjoyed learning new skills and improving already acquired skills most especially in the field of Development
-            (Web, Mobile and Software) or Cyber Security.
+            My love for computers drives me to continuously explore new tools and techniques through self-study, tutorials, and professional guidance. I strive to deepen my
+            understanding of subjects that captivate me, particularly in the areas of web, mobile, software development, and cybersecurity. I take pleasure in enhancing my skills
+            and acquiring new ones in these fields.
           </Typography>
         </Fade>
       </div>
@@ -26,19 +25,19 @@ const About = ({ articles }) => {
         <Fade bottom>
           <ul>
             <li>
-              <Typography component="span">Flutter, React Native and Electron.Js</Typography>
+              <Typography component="span">Desktop Apps: Electron.js.</Typography>
             </li>
             <li>
-              <Typography component="span">NodeJS, Express, Mongo DB, Firebase and Atlas Search</Typography>
+              <Typography component="span">Web Apps: Next.js, React, Svelte and Angular</Typography>
             </li>
             <li>
-              <Typography component="span">React, Next.JS, Redux, Svelte and Angular</Typography>
+              <Typography component="span">APIs: RESTful APIs and GraphQL</Typography>
             </li>
             <li>
-              <Typography component="span">Material-UI, SASS/SCSS, and CSS3</Typography>
+              <Typography component="span">Server: Express.js (Node.js Framework)</Typography>
             </li>
             <li>
-              <Typography component="span">Socket.io, oAuth, JWT, Version Control System(git) </Typography>
+              <Typography component="span">Mobile Apps: Flutter & React Native</Typography>
             </li>
           </ul>
         </Fade>

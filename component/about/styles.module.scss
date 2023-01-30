@@ -33,4 +33,21 @@
     // line-height: 1em;
     font-weight: 500 !important;
   }
+
+  a,
+  a:link {
+    padding: 5px 10px;
+    color: lighten($color: #000000, $amount: 40);
+    font-weight: 600;
+    color: color(sec);
+    text-decoration: none;
+  }
+
+  a:hover {
+    text-underline-position: under; // to increase the gap between text and underlining in CSS
+    transition: text-decoration-color 1s, color 2s;
+    text-decoration-thickness: 1px;
+    color: lighten($color: #000000, $amount: 10);
+    text-decoration-color: color(pry);
+  }
 }
