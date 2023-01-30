@@ -16,6 +16,7 @@ const About = ({ articles }) => {
             development, I have a track record of delivering cutting-edge internal apps for the bank. Explore my passion for technology on my Github profile at
             https://github.com/chukwu3meka and follow me on my journey as a developer.
             <br />
+            <br />
             My love for computers drives me to continuously explore new tools and techniques through self-study, tutorials, and professional guidance. I strive to deepen my
             understanding of subjects that captivate me, particularly in the areas of web, mobile, software development, and cybersecurity. I take pleasure in enhancing my skills
             and acquiring new ones in these fields.
