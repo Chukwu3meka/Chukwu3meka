@@ -30,7 +30,7 @@ const About = ({ articles }) => {
         <Fade bottom>
           <ul>
             <li>
-              <Typography component="span">Desktop Apps: Electron.js.</Typography>
+              <Typography component="span">Desktop Apps: Electron.js</Typography>
             </li>
             <li>
               <Typography component="span">Web Apps: Next.js, React, Svelte and Angular</Typography>
