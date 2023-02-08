@@ -26,14 +26,14 @@ const App = ({ Component, pageProps }) => {
   return (
     <>
       <Head>
-        <title>Maduekwe Chukwuemeka</title>
+        <title>Chukwuemeka Maduekwe</title>
         <link rel="shortcut icon" href="/favicon.png" />
         <meta name="keywords" content="Developer" />
         <meta property="quote" content="Benedictus sit Deus" />
         <meta property="image" content="/images/profile.png" />
         <meta property="title" content="Chukwuemeka: Developer" />
         <meta name="theme-color" content="rgba(255, 150, 40, 1)" />
-        <meta name="description" content="Chukwuemeka: Full stack Devloper" />
+        <meta name="description" content="Chukwuemeka: Fullstack Devloper" />
         <meta property="url" content="https://chukwuemeka.vercel.app" />
         <meta name="viewport" content="initial-scale=1, minimum-scale=1" />
         {/* <!-- og  --> */}
@@ -46,17 +46,17 @@ const App = ({ Component, pageProps }) => {
         <meta property="og:image:width" content="300" />
         <meta property="og:image:height" content="180" />
         <meta property="og:site_name" content="Chukwuemeka" />
-        <meta property="og:description" content="Full stack Developer" />
+        <meta property="og:description" content="Fullstack Developer" />
         <meta property="og:image:alt" content="Chukwuemeka Image" />
         <meta property="og:image" itemProp="image" content="/images/profile.png" />
         {/* <!-- Twitter --> */}
         <meta name="twitter:site" content="@viewcrunch" />
         <meta name="twitter:creator" content="@Chukwuemeka" />
         <meta name="twitter:image:alt" content="Chukwuemeka Image" />
-        <meta property="twitter:title" content="Maduekwe Chukwuemeka" />
+        <meta property="twitter:title" content="Chukwuemeka Maduekwe" />
         <meta property="twitter:image" content="/images/profile.png" />
-        <meta property="twitter:url" content="https://www.twitter.com/maduekwepedro" />
-        <meta property="twitter:description" content="Full stack Developer" />
+        <meta property="twitter:url" content="https://www.twitter.com/chukwu3meka" />
+        <meta property="twitter:description" content="Fullstack Developer" />
         <meta property="twitter:card" content="summary_large_image" />
 
         <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
