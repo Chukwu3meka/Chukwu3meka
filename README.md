@@ -4,7 +4,7 @@ Hi there! I am a skilled **Fullstack developer** with a focus on **Frontend deve
 
 > Here's a list of tools I've utilized, listed randomly.:
 
-- **Desktop Apps** Electron.js.
+- **Desktop Apps** 💨 Electron.js.
 - **Web Apps** Next.js, React, Svelte and Angular
 - **APIs** RESTful APIs and GraphQL
 - **Server** Express.js (Node.js Framework)
