@@ -4,11 +4,11 @@ Hi there! I am a skilled **Fullstack developer** with a focus on **Frontend deve
 
 > Here's a list of tools I've utilized, listed randomly.:
 
-- **Desktop Apps** ➖ Electron.js.
-- **Web Apps** ➖ Next.js, React, Svelte and Angular
-- **APIs** ➖ RESTful APIs and GraphQL
-- **Server** ➖ Express.js (Node.js Framework)
-- **Mobile Apps** ➖ Flutter & React Native,
+- **Desktop Apps** Electron.js.
+- **Web Apps** Next.js, React, Svelte and Angular
+- **APIs** RESTful APIs and GraphQL
+- **Server** Express.js (Node.js Framework)
+- **Mobile Apps** Flutter & React Native,
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/Chukwu3meka/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/Chukwu3meka)
@@ -19,7 +19,7 @@ Hi there! I am a skilled **Fullstack developer** with a focus on **Frontend deve
 
 ### ⚡ Charming initiatives. 👀
 
-1. [🌱 SoccerMASS](https://www.soccermass.com/) is a virtual management game where players assume the role of a club manager making transfer decisions, forming strategies, and more. Powered by [SoccerMASS API](https://apihub.soccermass.com/), We provide full-text search capabilities to enhance your app's functionality and comprehensive real-time football data, including club, player, country and competition information. [Github Repo](https://github.com/Chukwu3meka/SoccerMASS-Web)
+1. [🌱 SoccerMASS](https://www.soccermass.com/) is a virtual management game where players assume the role of a club manager making transfer decisions, forming strategies, and more. Powered by [SoccerMASS API](https://apihub.soccermass.com/), We provide full-text search capabilities to enhance your app's functionality and comprehensive real-time football data, including club, player, country and competition information. [Github Repo](https://github.com/SoccerMASS-Inc/SoccerMASS-Web)
 
 2. [🎯 Atlas Search Translation](https://atlassearchtranslation.com/): Fueled by MongoDB Atlas Search, Atlas Search Translation provides swift translation of words and phrases across Spanish, French and English language. Tools used include Next.js, Express.js and MongoDB [Github Repo](https://github.com/Chukwu3meka/Atlas-Search-Translation)
 
