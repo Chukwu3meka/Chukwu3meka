@@ -1,8 +1,6 @@
 <!-- ### Hi, [](https://chukwuemeka.vercel.app/)  -->
 
-### Hello there! I'm Chukwuemeka Maduekwe
-
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+### Hello there! I'm Chukwuemeka Maduekwe <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 ---
 
