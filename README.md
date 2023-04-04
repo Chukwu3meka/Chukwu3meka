@@ -4,11 +4,11 @@
 
 As a Fullstack developer, I am involved in building various types of applications such as Web (using Next.js - React), Mobile (using Flutter), Server (using Node.js - Express.js and Java), Desktop (using Electron), and Database (using MongoDB, Firebase, and Postgre).
 
-Currently, I am working on building new applications and maintaining existing Exchange applications at Zenith Bank. Additionally, I am intrigued by the idea of contributing to open-source projects.
+Currently, I am building new applications and maintaining existing Exchange applications at Zenith Bank. Additionally, I am intrigued by the idea of contributing to open-source projects.
 
-My current focus is on learning Full-text Search with Java (using Apache Lucene)/MongoDB Atlas Search, which I was introduced to in 2022 by [my mentor](https://github.com/MarcusSorealheis). The field is constantly evolving, and I believe in continuous learning, even with a Bachelor's degree in 🎓 Computer Science.
+My current focus is on learning Full-text Search with Java (using Apache Lucene) and MongoDB Atlas Search, which I was introduced to in 2022 by [my mentor (Marcus Eagan)](https://github.com/MarcusSorealheis). The field is constantly evolving, and I believe in continuous learning, even with a Bachelor's degree in 🎓 Computer Science.
 
-Feel free to connect with 📫 me on [LinkedIN](https://www.linkedin.com/in/chukwu3meka/), [Twitter](https://www.twitter.com/chukwu3meka),[Medium](https://Chukwu3meka.medium.com/) or visit my [Portfolio](https://chukwuemeka.vercel.app/) for more information.
+Feel free to connect with 📫 me on [LinkedIN](https://www.linkedin.com/in/chukwu3meka/), [Twitter](https://www.twitter.com/chukwu3meka), [Medium](https://Chukwu3meka.medium.com/) or visit my [Portfolio](https://chukwuemeka.vercel.app/) for more information.
 
 ---
 
