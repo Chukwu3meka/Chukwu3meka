@@ -2,8 +2,6 @@
 
 ### Hello there! I'm Chukwuemeka Maduekwe <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
----
-
 As a Fullstack developer, I am involved in building various types of applications such as Web (using Next.js - React), Mobile (using Flutter), Server (using Node.js - Express.js and Java), Desktop (using Electron), and Database (using MongoDB, Firebase, and Postgre).
 
 Currently, I am working on building new applications and maintaining existing Exchange applications at Zenith Bank. Additionally, I am intrigued by the idea of contributing to open-source projects.
