@@ -14,7 +14,7 @@ Feel free to connect with 📫 me on [LinkedIN](https://www.linkedin.com/in/chuk
 
 ---
 
-### Charming initiatives
+### Charming Open Source Initiatives
 
 1. [💞️ SoccerMASS](https://www.soccermass.com/) is a virtual management game where players assume the role of a club manager making transfer decisions, forming strategies, and more. Powered by [SoccerMASS API](https://apihub.soccermass.com/), We provide full-text search capabilities to enhance your app's functionality and comprehensive real-time football data, including club, player, country and competition information. [Github Repo](https://github.com/SoccerMASS-Inc/SoccerMASS-Web)
 
