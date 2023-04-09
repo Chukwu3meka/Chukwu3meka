@@ -2,11 +2,11 @@
 
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="24px"> I'm Chukwuemeka</h1>
 
-I'm involved in building various types of applications such as <b>Web</b> (Next.js and React), <b>Mobile</b> (React Native), <b>Server</b> (Node.js and Express.js), <b>Desktop</b> (Electron.js), and <b>Database</b> (MongoDB and Firebase).
+I excel in building diverse applications, including <b>Web</b>, <b>Mobile</b>, <b>Server</b>, <b>Desktop</b>, and <b>Database</b> applications. My preferred tools include Next.js, React Native, Express.js, Electron.js, MongoDB, and Firebase, among others.
 
-Currently, I am building new applications and maintaining existing Exchange applications at Zenith Bank. Additionally, I'm also intrigued by the idea of contributing to open-source projects and I'm enjoying my progress in Rust Programming.
+Currently, I am responsible for both building new applications and maintaining existing Exchange applications at Zenith Bank. In addition, I have a keen interest in contributing to open-source projects and am currently exploring Rust Programming, which I find quite enjoyable.
 
-My current focus is on learning Full-text Search (MongoDB Atlas Search and Elasticsearch) which I was introduced to in 2022 by [Marcus Eagan](https://github.com/MarcusSorealheis) who happens to be my Mentor. The field is constantly evolving, and I believe in continuous learning, even with a Bachelor's degree in 🎓 Computer Science.
+My primary focus at the moment is learning Full-text Search, specifically MongoDB Atlas Search, which was first introduced to me in 2022 by my mentor, [Marcus Eagan](https://github.com/MarcusSorealheis). As the field is continuously evolving, I believe in the importance of continuous learning, even with a Bachelor's degree in Computer Science.
 
 Feel free to connect with 📫 me on [LinkedIN](https://www.linkedin.com/in/chukwu3meka/), [Twitter](https://www.twitter.com/chukwu3meka), [Medium](https://Chukwu3meka.medium.com/) or visit my [Portfolio](https://chukwuemeka.vercel.app/) for more information.
 
