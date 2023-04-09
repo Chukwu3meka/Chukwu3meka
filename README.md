@@ -2,13 +2,11 @@
 
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="24px"> I'm Chukwuemeka</h1>
 
-As a Fullstack developer, I am involved in building various types of applications such as <b>Web</b> (using Next.js - React), <b>Mobile</b> (using Flutter), <b>Server</b> (using Node.js - Express.js and Java), <b>Desktop</b> (using Electron), and <b>Database</b> (using MongoDB, Firebase, and Postgre).
+I'm involved in building various types of applications such as <b>Web</b> (Next.js and React), <b>Mobile</b> (React Native), <b>Server</b> (Node.js and Express.js), <b>Desktop</b> (Electron.js), and <b>Database</b> (MongoDB and Firebase).
 
-Currently, I am building new applications and maintaining existing Exchange applications at Zenith Bank. Additionally, I am intrigued by the idea of contributing to open-source projects.
+Currently, I am building new applications and maintaining existing Exchange applications at Zenith Bank. Additionally, I'm also intrigued by the idea of contributing to open-source projects and I'm enjoying my progress in Rust Programming.
 
-My current focus is on learning Full-text Search with Java (using Apache Lucene and Apache Solr), Elasticsearch and MongoDB Atlas Search, which I was introduced to in 2022 by [Marcus Eagan](https://github.com/MarcusSorealheis) who is Mentor. The field is constantly evolving, and I believe in continuous learning, even with a Bachelor's degree in 🎓 Computer Science.
-
-I have experience working with a variety of programming languages, such as <b>JavaScript</b>, <b>TypeScript</b>, <b>Java</b>, and <b>Dart</b>.
+My current focus is on learning Full-text Search (MongoDB Atlas Search and Elasticsearch) which I was introduced to in 2022 by [Marcus Eagan](https://github.com/MarcusSorealheis) who happens to be my Mentor. The field is constantly evolving, and I believe in continuous learning, even with a Bachelor's degree in 🎓 Computer Science.
 
 Feel free to connect with 📫 me on [LinkedIN](https://www.linkedin.com/in/chukwu3meka/), [Twitter](https://www.twitter.com/chukwu3meka), [Medium](https://Chukwu3meka.medium.com/) or visit my [Portfolio](https://chukwuemeka.vercel.app/) for more information.
 
