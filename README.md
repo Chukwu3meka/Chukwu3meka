@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="24px"> I'm Chukwuemeka</h1>
 
-I excel in building diverse applications, including <b>Web</b>, <b>Mobile</b>, <b>Server</b>, and <b>Desktop</b> applications. My preferred tools include Next.js, React Native, Express.js, Electron.js, MongoDB, and Firebase, among others. In addition, I have a keen interest in contributing to open-source projects and am currently exploring Rust Programming, which I find quite enjoyable.
+My expertise lies in developing a wide range of applications such as those intended for the <b>Web</b>, <b>Mobile</b>, <b>Server</b>, and <b>Desktop</b> platforms. My preferred tools include Next.js, React Native, Express.js, Electron.js, MongoDB, and Firebase, among others. In addition, I have a keen interest in contributing to open-source projects and am currently exploring Rust Programming, which I find quite enjoyable.
 
 My primary focus at the moment is learning Full-text Search, specifically MongoDB Atlas Search, which was first introduced to me in 2022 by my mentor, [Marcus Eagan](https://github.com/MarcusSorealheis). As the field is continuously evolving, I believe in the importance of continuous learning, even with a Bachelor's degree in Computer Science.
 
