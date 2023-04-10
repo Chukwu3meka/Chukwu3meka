@@ -2,9 +2,7 @@
 
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="24px"> I'm Chukwuemeka</h1>
 
-My expertise lies in developing a wide range of applications such as those intended for the <b>Web</b>, <b>Mobile</b>, <b>Server</b>, and <b>Desktop</b> platforms. My preferred tools include Next.js, React Native, Express.js, Electron.js, MongoDB, and Firebase, among others. In addition, I have a keen interest in contributing to open-source projects and am currently exploring Rust Programming, which I find quite enjoyable.
-
-My primary focus at the moment is learning Full-text Search, specifically MongoDB Atlas Search, which was first introduced to me in 2022 by my mentor, [Marcus Eagan](https://github.com/MarcusSorealheis). As the field is continuously evolving, I believe in the importance of continuous learning, even with a Bachelor's degree in Computer Science.
+As a Software developer, I create Desktop and Fullstack web applications using Next.js (A React Framework), Express.js (A node Framework), and Electron.js. Although I have a Bachelor's degree in Computer Science, I recognize the importance of continuous learning in the field of technology that's always evolving. To stay current and provide efficient and dependable solutions for modern-day problems, I'm currently exploring Rust due to its intriguing features such as memory safety, concurrency, and performance.
 
 Feel free to connect with 📫 me on [LinkedIN](https://www.linkedin.com/in/chukwu3meka/), [Twitter](https://www.twitter.com/chukwu3meka), [Medium](https://Chukwu3meka.medium.com/) or visit my [Portfolio](https://chukwuemeka.vercel.app/) for more information.
 
@@ -16,18 +14,13 @@ Feel free to connect with 📫 me on [LinkedIN](https://www.linkedin.com/in/chuk
 
 2. [🎯 Atlas Search Translation](https://atlassearchtranslation.com/): Fueled by MongoDB Atlas Search, Atlas Search Translation provides swift translation of words and phrases across Spanish, French and English language. Tools used include Next.js, Express.js and MongoDB [Github Repo](https://github.com/Chukwu3meka/Atlas-Search-Translation)
 
-3. [📚 ViewCrunch](https://www.viewcrunch.com/) is a platform where users can express their opinions/perspectives and interact/engage with others by liking/disliking views. The NEWS page is updated regularly via _rapidapi_ endpoints. Next.JS, Firebase, Material-UI and SASS. [Github Repo](https://github.com/Chukwu3meka/ViewCrunch)
-
 ---
 
-### 📖 Recent Blog Posts 💬
+### 📖 Recent Blog Posts on Medium
 
 - [A Practical Example Using MongoDB Atlas Search](https://chukwu3meka.medium.com/a-practical-example-using-mongodb-atlas-search-144ab2d4ed78)
-- [Software Developer interview preparation](viewcrunch.com/view/software-developer-interview-preparation-pRt9JzBJWGHjwmNuKSfV)
 - [Firebase social auth with latest SDK 9](https://chukwu3meka.medium.com/firebase-social-authentication-with-latest-sdk-version-9-75e4eac57563)
 - [How to Make a Contact Form with Nodemailer](https://chukwu3meka.medium.com/contact-form-with-nodemailer-3bf217db9df8)
-- [Firebase vs MongoDB: Which One is the Best for Your Next App?](https://chukwu3meka.medium.com/firebase-or-mongodb-for-your-next-app-d2d6575b0714)
-- [Why you should start using Next.js](https://chukwu3meka.medium.com/why-you-should-start-using-next-js-3241ad08b9f5)
 
 ---
 
