@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="24px"> I'm Chukwuemeka</h1>
 
-As a Software developer, I create Desktop and Fullstack web applications using Next.js (A React Framework), Express.js (A node Framework), and Electron.js. Although I have a Bachelor's degree in Computer Science 🎓 I recognize the importance of continuous learning in the field of technology that's always evolving. To stay current and provide efficient and dependable solutions for modern-day problems, I'm currently exploring Rust due to its intriguing features such as memory safety, concurrency, and performance.
+As a Software developer, I create <b>Desktop</b> and <b>Fullstack Web</b> applications using <b>Next.js</b> (A React Framework), <b>Express.js</b> (A node Framework), and <b>Electron.js</b>. Although I have a <b>Bachelor's degree in Computer Science</b> 🎓 I recognize the importance of continuous learning in the field of technology that's always evolving. To stay current and provide efficient and dependable solutions for modern-day problems, I'm currently exploring <b>Rust</b> due to its intriguing features such as memory safety, concurrency, and performance.
 
 Feel free to connect with 📫 me on [LinkedIN](https://www.linkedin.com/in/chukwu3meka/), [Twitter](https://www.twitter.com/chukwu3meka), [Medium](https://Chukwu3meka.medium.com/) or visit my [Portfolio](https://chukwuemeka.vercel.app/) for more information.
 
