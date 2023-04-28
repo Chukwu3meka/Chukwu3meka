@@ -2,7 +2,7 @@
 
 As a Software developer, I specialize in developing both <b>Desktop</b> and <b>Full Stack Web</b> applications. My preferred tools include <b>Next.js</b> - A React Framework, <b>Express.js</b> - A node Framework, and <b>Electron.js</b> - To build cross-platform desktop apps.
 
-Although I have a <b>Bachelor's degree in Computer Science</b> 🎓 I recognize the importance of continuous learning in the field of technology that's always evolving. To stay current and provide efficient and dependable solutions for modern-day problems. My mentor <b>[Marcus Easgan](https://github.com/MarcusSorealheis)</b> introduced me to <b>[Zig Programming Language](https://github.com/ziglang)</b>, and I am currently exploring it due to its compelling features that prioritize safety, performance, and simplicity.
+Although I have a <b>Bachelor's degree in Computer Science</b> 🎓 I recognize the importance of continuous learning in the field of technology that's always evolving. To stay current and provide efficient and dependable solutions for modern-day problems. My mentor <b>[Marcus Eagan](https://github.com/MarcusSorealheis)</b> introduced me to <b>[Zig Programming Language](https://github.com/ziglang)</b>, and I am currently exploring it due to its compelling features that prioritize safety, performance, and simplicity.
 
 Feel free to connect with 📫 me on [LinkedIN](https://www.linkedin.com/in/chukwu3meka/), [Twitter](https://www.twitter.com/chukwu3meka), [Medium](https://Chukwu3meka.medium.com/) or visit my [Portfolio](https://chukwuemeka.vercel.app/) for more information.
 
