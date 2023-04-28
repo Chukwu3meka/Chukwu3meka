@@ -24,10 +24,6 @@ Feel free to connect with 📫 me on [LinkedIN](https://www.linkedin.com/in/chuk
 
 ---
 
-<p align="center">
  <img height="180px"  src="https://github-readme-stats.vercel.app/api?username=Chukwu3meka&show_icons=true&locale=en&theme=cobalt" alt="Chukwuemeka Maduekwe stat" />
-</p>
 
-<p align="center">
  <img height="180px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chukwu3meka&layout=compact" alt="Chukwuemeka Maduekwe languages" />
-</p>
