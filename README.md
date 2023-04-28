@@ -23,7 +23,7 @@ Feel free to connect with 📫 me on [LinkedIN](https://www.linkedin.com/in/chuk
 - [How to Make a Contact Form with Nodemailer](https://chukwu3meka.medium.com/contact-form-with-nodemailer-3bf217db9df8)
 
 <p align="center">
- <img height="180px"  src="https://github-readme-stats.vercel.app/api?username=Chukwu3meka&show_icons=true&locale=en&theme=cobalt" alt="Chukwuemeka Maduekwe stat" />
+ <img height="180px" style="margin: 'auto'" src="https://github-readme-stats.vercel.app/api?username=Chukwu3meka&show_icons=true&locale=en&theme=cobalt" alt="Chukwuemeka Maduekwe stat" />
 
  <img height="180px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chukwu3meka&layout=compact" alt="Chukwuemeka Maduekwe languages" />
 </p>
