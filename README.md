@@ -2,9 +2,9 @@
 
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="24px"> I'm Chukwuemeka</h1>
 
-As a Software developer, I create <b>Desktop</b> and <b>Fullstack Web</b> applications using <b>Next.js</b> (A React Framework), <b>Express.js</b> (A node Framework), and <b>Electron.js</b>. Although I have a <b>Bachelor's degree in Computer Science</b> 🎓 I recognize the importance of continuous learning in the field of technology that's always evolving. To stay current and provide efficient and dependable solutions for modern-day problems.
+As a Software developer, I create <b>Desktop</b> and <b>Fullstack Web</b> applications using <b>Next.js</b> (A React Framework), <b>Express.js</b> (A node Framework), and <b>Electron.js</b>.
 
-My mentor <b>[Marcus Easgan](https://github.com/MarcusSorealheis)</b> introduced me to <b>[Zig Programming Language](https://github.com/ziglang)</b>, and I am currently exploring it due to its compelling features that prioritize safety, performance, and simplicity.
+Although I have a <b>Bachelor's degree in Computer Science</b> 🎓 I recognize the importance of continuous learning in the field of technology that's always evolving. To stay current and provide efficient and dependable solutions for modern-day problems. My mentor <b>[Marcus Easgan](https://github.com/MarcusSorealheis)</b> introduced me to <b>[Zig Programming Language](https://github.com/ziglang)</b>, and I am currently exploring it due to its compelling features that prioritize safety, performance, and simplicity.
 
 Feel free to connect with 📫 me on [LinkedIN](https://www.linkedin.com/in/chukwu3meka/), [Twitter](https://www.twitter.com/chukwu3meka), [Medium](https://Chukwu3meka.medium.com/) or visit my [Portfolio](https://chukwuemeka.vercel.app/) for more information.
 
