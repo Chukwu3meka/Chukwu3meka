@@ -2,9 +2,7 @@
 
 I’m a Software Developer with expertise in building high-quality Native and Full stack Web applications using JavaScript and Typescript. With proven track record of both freelance and full-time work, I’m an excellent addition to any team thanks to my contribution to open-source.
 
-My mentor <b>[Marcus Eagan](https://github.com/MarcusSorealheis)</b> who introduced me to Open source contribution recently told me about <b>[Zig Programming Language](https://github.com/ziglang)</b>, and I am currently exploring it due to its compelling features that prioritize safety, performance, and simplicity. Although I have a <b>Bachelor's degree in Computer Science 🎓</b>. I recognize the importance of continuous learning in the field of technology that's always evolving. To stay current and provide efficient and dependable solutions for modern-day problems.
-
-Feel free to connect with 📫 me on [LinkedIN](https://www.linkedin.com/in/chukwu3meka/), [Twitter](https://www.twitter.com/chukwu3meka), [Medium](https://Chukwu3meka.medium.com/) or visit my [Portfolio](https://chukwuemeka.vercel.app/) for more information.
+My mentor <b>[Marcus Eagan](https://github.com/MarcusSorealheis)</b> who introduced me to Open source contribution recently told me about <b>[Zig Programming Language](https://github.com/ziglang)</b>, and I am currently exploring it due to its compelling features that prioritize safety, performance, and simplicity.
 
 ### Preferred Tools
 
@@ -34,3 +32,9 @@ Feel free to connect with 📫 me on [LinkedIN](https://www.linkedin.com/in/chuk
 
  <img height="180px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chukwu3meka&layout=compact" alt="Chukwuemeka Maduekwe languages" />
 </p>
+
+---
+
+Feel free to connect with 📫 me on [LinkedIN](https://www.linkedin.com/in/chukwu3meka/), [Twitter](https://www.twitter.com/chukwu3meka), [Medium](https://Chukwu3meka.medium.com/) or visit my [Portfolio](https://chukwuemeka.vercel.app/) for more information.
+
+---
