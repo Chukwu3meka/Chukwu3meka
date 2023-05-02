@@ -1,13 +1,11 @@
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="24px"> I'm Chukwuemeka</h1>
 
-I’m a Software Developer with expertise in building high-quality Native and Full stack Web applications using JavaScript and Typescript. With proven track record of both freelance and full-time work, I’m an excellent addition to any team thanks to my contribution to open-source.
-
-My mentor <b>[Marcus Eagan](https://github.com/MarcusSorealheis)</b> who introduced me to Open source contribution recently told me about <b>[Zig Programming Language](https://github.com/ziglang)</b>, and I am currently exploring it due to its compelling features that prioritize safety, performance, and simplicity.
+I’m a Software Developer with expertise in building high-quality Native and Full stack Web applications using JavaScript and Typescript. With proven track record of both freelance and full-time work, I’m an excellent addition to any team thanks to my mentor - <b>[Marcus Eagan](https://github.com/MarcusSorealheis)</b> who introduced me to Open source contribution and recently told me about <b>[Zig Programming Language](https://github.com/ziglang)</b>, which I'm currently exploring due to its compelling features that prioritize safety, performance, and simplicity.
 
 ### Preferred Tools
 
 - <b>Frontend</b>: React, Svelte, Angular and Next.js
-- <b>UI</b>: Material-UI, Tailwind, Figma, SCSS and CSS3
+- <b>UI Tools</b>: Material-UI, Tailwind, Figma, SCSS and CSS3
 - <b>Backend</b>: Express (Node.js), Redis, Firebase and Mongo DB
 - <b>Native</b>: Electron.js and React Native
 
