@@ -2,7 +2,7 @@
 
 I’m a Software Developer with expertise in building high-quality Native and Full stack Web applications using <b>JavaScript</b> and <b>Typescript</b>. With proven track record of both freelance and full-time work, I’m an excellent addition to any team thanks to my mentor - <b>[Marcus Eagan](https://github.com/MarcusSorealheis)</b> who introduced me to Open source contribution and recently told me about <b>[Zig Programming Language](https://github.com/ziglang)</b>, which I'm currently exploring due to its compelling features that prioritize safety, performance, and simplicity.
 
-### Preferred Tools
+---
 
 - <b>Frontend</b>: React, Svelte, Angular and Next.js
 - <b>UI Tools</b>: Material-UI, Tailwind, Figma, SCSS and CSS3
