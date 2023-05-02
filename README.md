@@ -31,8 +31,4 @@ I’m a Software Developer with expertise in building high-quality Native and Fu
  <img height="180px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chukwu3meka&layout=compact" alt="Chukwuemeka Maduekwe languages" />
 </p>
 
----
-
 Feel free to connect with 📫 me on [LinkedIN](https://www.linkedin.com/in/chukwu3meka/), [Twitter](https://www.twitter.com/chukwu3meka), [Medium](https://Chukwu3meka.medium.com/) or visit my [Portfolio](https://chukwuemeka.vercel.app/) for more information.
-
----
