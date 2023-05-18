@@ -4,8 +4,8 @@ I’m a Software Developer with expertise in building high-quality Native and Fu
 
 ---
 
-- <b>Frontend</b>: Next.js (A React.js Framework)
 - <b>UI Tools</b>: Material-UI, SCSS and CSS3
+- <b>Frontend</b>: Next.js (A React.js Framework)
 - <b>Backend</b>: Express (Node.js), Firebase and Mongo DB
 - <b>Desktop & Mobile</b>: Electron.js and Flutter
 
