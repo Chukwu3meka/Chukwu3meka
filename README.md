@@ -7,13 +7,13 @@ I’m a Software Developer with expertise in building high-quality Native and Fu
 - <b>Frontend</b>: Next.js (A React.js Framework)
 - <b>UI Tools</b>: Material-UI, SCSS and CSS3
 - <b>Backend</b>: Express (Node.js), Firebase and Mongo DB
-- <b>Native</b>: Electron.js and Flutter
+- <b>Desktop & Mobile</b>: Electron.js and Flutter
 
 ---
 
 ### Charming Open Source Initiatives
 
-1. [⚽ SoccerMASS](https://www.soccermass.com/) is a virtual management game where players assume the role of a club manager making transfer decisions, forming strategies, and more. Powered by [SoccerMASS API](https://apihub.soccermass.com/), We provide full-text search capabilities to enhance your app's functionality and comprehensive real-time football data, including club, player, country and competition information. [Github Repo](https://github.com/SoccerMASS-Inc/SoccerMASS-Web)
+1. [⚽ SoccerMASS](https://www.soccermass.com/) is a virtual management game where users assume the role of a manager making transfer decisions, tactics and more. Powered by [SoccerMASS API](https://apihub.soccermass.com/), We also provide full-text search capabilities to enhance your app's functionality and comprehensive real-time football data/Soccer API and more. [Github Repo](https://github.com/SoccerMASS-Inc/SoccerMASS-Web)
 
 2. [🌍 Atlas Search Translation](https://atlassearchtranslation.com/): Fueled by MongoDB Atlas Search, Atlas Search Translation provides swift translation of words and phrases across Spanish, French and English language. Tools used include Next.js, Express.js and MongoDB [Github Repo](https://github.com/Chukwu3meka/Atlas-Search-Translation)
 
