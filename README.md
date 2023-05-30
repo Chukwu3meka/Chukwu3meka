@@ -6,7 +6,7 @@ I’m a Software Developer with expertise in building high-quality Fullstack Web
 
 - <b>Frontend</b>: Next.js (React.js framework)
 - <b>Styling</b>: Material-UI, SCSS and Tailwind
-- <b>Backend</b>: Express (Node.js), Firebase and Mongo DB
+- <b>Backend</b>: Express (Node.js) and Mongo DB
 
 ---
 
