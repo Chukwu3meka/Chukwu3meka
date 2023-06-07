@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="24px"> I'm Chukwuemeka</h1>
 
-I’m a Software Developer with expertise in building high-quality Fullstack Web applications using <b>JavaScript</b> and <b>Typescript</b> with proven track record of both freelance and full-time work. Thanks to my mentor - <b>[Marcus Eagan](https://github.com/MarcusSorealheis)</b> who introduced me to Open source contribution and recently told me about <b>[Zig Programming Language](https://github.com/ziglang)</b>, which I'm currently exploring due to its compelling features that prioritize safety, performance, and simplicity.
+I’m a Software Developer with expertise in building high-quality Fullstack Web applications using <b>JavaScript</b> and <b>Typescript</b> with proven track record of both freelance and full-time work.
 
 ---
 
