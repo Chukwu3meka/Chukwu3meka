@@ -1,13 +1,8 @@
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="24px"> I'm Chukwuemeka</h1>
 
-I’m a Full stack Developer with expertise in building high-quality web applications using <b>JavaScript</b> and <b>Typescript</b> with proven track record of both freelance and full-time work.
+I’m a Full stack Developer with expertise in building high-quality web applications using <b>JavaScript</b> and <b>Typescript</b> with proven track record of both freelance and full-time work. I primarily use the following technologies for my frontend development: Next.js, Material-UI, and SCSS. For my backend development, I use Express (a Node.js framework), Mongoose, and MongoDB.
 
----
-
-- <b>Frontend</b>: React.js, Next.js, Material-UI and SCSS
-- <b>Backend</b>: Express (Node.js Framwerk), Mongoose and Mongo DB
-
----
+## Feel free to connect with 📫 me on [LinkedIN](https://www.linkedin.com/in/chukwu3meka/), [Twitter](https://www.twitter.com/chukwu3meka), [Medium](https://Chukwu3meka.medium.com/) or visit my [StackOverflow](https://stackoverflow.com/users/12490386) for more information.
 
 ### Charming Open Source Initiatives
 
@@ -20,13 +15,10 @@ I’m a Full stack Developer with expertise in building high-quality web applica
 ### Blog Posts on Medium
 
 - [A Practical Example Using MongoDB Atlas Search](https://chukwu3meka.medium.com/a-practical-example-using-mongodb-atlas-search-144ab2d4ed78)
-- [Firebase social auth with latest SDK 9](https://chukwu3meka.medium.com/firebase-social-authentication-with-latest-sdk-version-9-75e4eac57563)
 - [How to Make a Contact Form with Nodemailer](https://chukwu3meka.medium.com/contact-form-with-nodemailer-3bf217db9df8)
+- [Firebase social auth with latest SDK 9](https://chukwu3meka.medium.com/firebase-social-authentication-with-latest-sdk-version-9-75e4eac57563)
 
 <p align="center">
  <img height="180px"  src="https://github-readme-stats.vercel.app/api?username=Chukwu3meka&show_icons=true&locale=en&theme=cobalt" alt="Chukwuemeka Maduekwe stat" />
-
  <img height="180px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chukwu3meka&layout=compact" alt="Chukwuemeka Maduekwe languages" />
 </p>
-
-Feel free to connect with 📫 me on [LinkedIN](https://www.linkedin.com/in/chukwu3meka/), [Twitter](https://www.twitter.com/chukwu3meka), [Medium](https://Chukwu3meka.medium.com/) or visit my [StackOverflow](https://stackoverflow.com/users/12490386) for more information.
