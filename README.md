@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="24px"> I'm Chukwuemeka</h1>
 
-I’m a Full stack Developer with expertise in building high-quality web applications using <b>JavaScript</b> and <b>Typescript</b> with proven track record of both freelance and full-time work. I primarily use the following technologies for my frontend development: Next.js, Material-UI, and SCSS. For my backend development, I use Express (a Node.js framework), Mongoose, and MongoDB. Feel free to connect with 📫 me on [LinkedIN](https://www.linkedin.com/in/chukwu3meka/), [Twitter](https://www.twitter.com/chukwu3meka), [Medium](https://Chukwu3meka.medium.com/) or visit my [StackOverflow](https://stackoverflow.com/users/12490386) for more information.
+I’m a Full stack Developer with expertise in building high-quality web applications using <b>JavaScript</b> and <b>Typescript</b> with proven track record of both freelance and full-time work. I primarily use the following technologies for my frontend development: <b>Next.js</b>, <b>Material-UI</b>, and <b>SCSS</b>. For my backend development I use <b>Express (a Node.js framework)</b>, <b>Mongoose</b>, and <b>MongoDB</b>. Feel free to connect with 📫 me on [LinkedIN](https://www.linkedin.com/in/chukwu3meka/), [Twitter](https://www.twitter.com/chukwu3meka), [Medium](https://Chukwu3meka.medium.com/) or visit my [StackOverflow](https://stackoverflow.com/users/12490386) for more information.
 
 ### Charming Open Source Initiatives
 
