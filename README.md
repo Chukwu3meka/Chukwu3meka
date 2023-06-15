@@ -20,6 +20,8 @@ Feel free to connect with 📫 me on [LinkedIN](https://www.linkedin.com/in/chuk
 
 2. [🌍 Atlas Search Translation](https://atlassearchtranslation.com/): Fueled by MongoDB Atlas Search, Atlas Search Translation provides swift translation of words and phrases across Spanish, French and English language. Tools used include Next.js, Express.js and MongoDB [Github Repo](https://github.com/Chukwu3meka/Atlas-Search-Translation)
 
+---
+
 <p align="center">
  <img height="180px"  src="https://github-readme-stats.vercel.app/api?username=Chukwu3meka&show_icons=true&locale=en&theme=cobalt" alt="Chukwuemeka Maduekwe stat" />
  <img height="180px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chukwu3meka&layout=compact" alt="Chukwuemeka Maduekwe languages" />
