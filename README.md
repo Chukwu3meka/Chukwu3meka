@@ -6,6 +6,14 @@ Feel free to connect with 📫 me on [LinkedIN](https://www.linkedin.com/in/chuk
 
 ---
 
+### Blog Posts on Medium
+
+- [A Practical Example Using MongoDB Atlas Search](https://chukwu3meka.medium.com/a-practical-example-using-mongodb-atlas-search-144ab2d4ed78)
+- [How to Make a Contact Form with Nodemailer](https://chukwu3meka.medium.com/contact-form-with-nodemailer-3bf217db9df8)
+- [Firebase social auth with latest SDK 9](https://chukwu3meka.medium.com/firebase-social-authentication-with-latest-sdk-version-9-75e4eac57563)
+
+---
+
 ### Charming Open Source Initiatives
 
 1. [⚽ SoccerMASS](https://www.soccermass.com/) is a virtual management game where users assume the role of a manager making transfer decisions, tactics and more. Powered by [SoccerMASS API](https://apihub.soccermass.com/), We also provide full-text search capabilities to enhance your app's functionality and comprehensive real-time football data/Soccer API and more. [Github Repo](https://github.com/SoccerMASS-Inc/SoccerMASS-Web)
@@ -16,9 +24,3 @@ Feel free to connect with 📫 me on [LinkedIN](https://www.linkedin.com/in/chuk
  <img height="180px"  src="https://github-readme-stats.vercel.app/api?username=Chukwu3meka&show_icons=true&locale=en&theme=cobalt" alt="Chukwuemeka Maduekwe stat" />
  <img height="180px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chukwu3meka&layout=compact" alt="Chukwuemeka Maduekwe languages" />
 </p>
-
-### Blog Posts on Medium
-
-- [A Practical Example Using MongoDB Atlas Search](https://chukwu3meka.medium.com/a-practical-example-using-mongodb-atlas-search-144ab2d4ed78)
-- [How to Make a Contact Form with Nodemailer](https://chukwu3meka.medium.com/contact-form-with-nodemailer-3bf217db9df8)
-- [Firebase social auth with latest SDK 9](https://chukwu3meka.medium.com/firebase-social-authentication-with-latest-sdk-version-9-75e4eac57563)
