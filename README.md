@@ -1,7 +1,6 @@
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="24px"> I'm Chukwuemeka</h1>
 
-I’m a Full stack Developer with expertise in building high-quality web applications using <b>JavaScript</b> and <b>Typescript</b> with proven track record of both freelance and full-time work.<br/><br/>
-I primarily use the following technologies for my frontend development: <b>Next.js</b>, <b>Material-UI</b>, and <b>SCSS</b>. For my backend development I use <b>Express (a Node.js framework)</b>, <b>Mongoose</b>, and <b>MongoDB</b>.<br/><br/>
+I’m a Full stack Developer with expertise in building high-quality web applications using <b>JavaScript</b> and <b>Typescript</b> with proven track record of both freelance and full-time work. I primarily use the following technologies for my frontend development: <b>Next.js</b>, <b>Material-UI</b>, and <b>SCSS</b>. For my backend development I use <b>Express (a Node.js framework)</b>, <b>Mongoose</b>, and <b>MongoDB</b>.<br/><br/>
 Although I have a <b>Bachelor's degree in Computer Science</b> 🎓 I recognize the importance of continuous learning in the field of technology that's always evolving. To stay current and provide efficient and dependable solutions for modern-day problems, I'm currently exploring <b>Rust</b> due to its intriguing features such as memory safety, concurrency, and performance.<br/><br/>
 
 Feel free to connect with 📫 me on [LinkedIN](https://www.linkedin.com/in/chukwu3meka/), [Twitter](https://www.twitter.com/chukwu3meka), [Medium](https://Chukwu3meka.medium.com/) or visit my [StackOverflow](https://stackoverflow.com/users/12490386) for more information.
