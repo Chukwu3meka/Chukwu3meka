@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="24px"> I'm Chukwuemeka</h1>
 
-JS/TS/Rust Developer. My preferred Libaries/Frameworks includes: Playright, Next.js (a React.js framework), Material-UI, SCSS, Express (a Node.js framework), Mongoose, and MongoDB. With a Bachelor's degree in Computer Science and both Freelance and Full-time job experience<br/>
+JS/TS/Rust Developer. My preferred Libaries/Frameworks includes: Playright, Next.js (a React.js framework), Material-UI, Tailwind, SCSS, Express (a Node.js framework), Mongoose, and MongoDB. With a Bachelor's degree in Computer Science and both Freelance and Full-time job experience<br/>
 
 ---
 
