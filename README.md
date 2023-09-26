@@ -14,16 +14,6 @@ While I hold a Bachelor's degree in Computer Science, I maintain a proactive app
 - [Using Multiple MongoDB Databases in a Single Server with Node.js and TypeScript](https://chukwu3meka.medium.com/using-multiple-mongodb-databases-in-a-single-server-with-nodejs-and-typescript-f447e4628a80)
 - [Implementing Firebase Social Authentication with the Latest SDK (Version 9)](https://chukwu3meka.medium.com/firebase-social-authentication-with-latest-sdk-version-9-75e4eac57563)
 
----
-
-### Personal Projects 🔄
-
-1. [SoccerMASS API Hub](https://apihub.soccermass.com/): This project provides comprehensive real-time football data and full-text search capabilities to enhance your application's functionality and more. [GitHub Repo](https://github.com/SoccerMASS-Inc/SoccerMASS-Web)
-
-2. [⚽ SoccerMASS Football Manager](https://manager.soccermass.com/): A virtual football game where users take on the role of a manager, making transfer decisions, tactics, and more. Powered by the [SoccerMASS API](https://apihub.soccermass.com/). [GitHub Repo](https://github.com/SoccerMASS-Inc/SoccerMASS-Web)
-
----
-
 <p align="center">
  <img height="180px"  src="https://github-readme-stats.vercel.app/api?username=Chukwu3meka&show_icons=true&locale=en&theme=cobalt" alt="Chukwuemeka Maduekwe" />
 </p>
