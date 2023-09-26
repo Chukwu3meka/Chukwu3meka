@@ -1,6 +1,6 @@
 <h1 align="center">Hello! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="24px"> I'm Chukwuemeka</h1>
 
-I'm a senior JavaScript developer with strong interest in web applications. My tech stack includes Playwright, Next.js (A react.js framework), Material-UI, Tailwind, SCSS, Express.js (A node.js framework), PostgreSQL, Mongoose, and MongoDB.
+I'm a senior JavaScript developer with strong interest in web applications. My tech stack includes Playwright, Next.js (A react.js framework), Material-UI, Tailwind, SCSS, Express.js (A node.js framework), PostgreSQL, Mongoose, MongoDB and Git.
 
 While I hold a Bachelor's degree in Computer Science, I maintain a proactive approach to skill enhancement and staying current with industry trends. Currently, I am delving into the development of robust solutions using Rust, driven by its compelling features such as safety and performance.
 
