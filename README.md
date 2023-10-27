@@ -14,6 +14,8 @@ While I hold a Bachelor's degree in Computer Science, I maintain a proactive app
 - [Using Multiple MongoDB Databases in a Single Server with Node.js and TypeScript](https://chukwu3meka.medium.com/using-multiple-mongodb-databases-in-a-single-server-with-nodejs-and-typescript-f447e4628a80)
 - [Implementing Firebase Social Authentication with the Latest SDK (Version 9)](https://chukwu3meka.medium.com/firebase-social-authentication-with-latest-sdk-version-9-75e4eac57563)
 
+<br />
+
 <p align="center" max-width=700>
  <a href="https://github.com/Chukwu3meka/github-readme-stats"  >
   <img width=50% align="center" src="https://github-readme-stats.vercel.app/api?username=Chukwu3meka&show=discussions_started,discussions_answered" />
@@ -23,5 +25,7 @@ While I hold a Bachelor's degree in Computer Science, I maintain a proactive app
   <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Chukwu3meka" />
  </a>
 </p>
+
+<br />
 
 > Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/chukwu3meka/) or take a look at my profile on [StackOverflow](https://stackoverflow.com/users/12490386).
