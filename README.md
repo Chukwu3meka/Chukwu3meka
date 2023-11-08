@@ -2,7 +2,7 @@
 
 I'm a Sofware developer with strong interest in web applications. My tech stack includes Playwright, Next.js (A react.js framework), Material-UI, Tailwind, SCSS, Express.js (A node.js framework), PostgreSQL, Mongoose, MongoDB and Git.
 
-I have over 5 years in building high-quality full-stack applications using JavaScript/Typescript. With proven track record of both freelance and full-time work since 2018, I have a strong understanding of common patterns and conventions used in codebases thanks to my contribution to open-source projects.
+With proven track record of both freelance and full-time work, I have over 5+ years in building high-quality full-stack applications using JavaScript/Typescript, and a strong understanding of patterns and standard conventions used in large codebases thanks to my contribution to open-source projects.
 
 While I hold a Bachelor's degree in Computer Science, I maintain a proactive approach to skill enhancement and staying current with industry trends. Currently, I am delving into the development of robust solutions using Rust, driven by its compelling features such as safety and performance.
 
