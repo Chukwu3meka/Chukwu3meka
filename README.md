@@ -20,7 +20,7 @@ While I hold a Bachelor's degree in Computer Science, I maintain a proactive app
 
 <p align="center" max-width=700>
  <a href="https://github.com/Chukwu3meka/github-readme-stats"  >
-  <img width=50% align="center" src="https://github-readme-stats.vercel.app/api?username=Chukwu3meka\&show_icons=true\&show=reviews,discussions_started,prs_merged,prs_merged_percentage,discussions_answered,rank_icon=github" />
+  <img width=50% align="center" src="https://github-readme-stats.vercel.app/api?username=Chukwu3meka&show_icons=true\&show=reviews,discussions_started,prs_merged,prs_merged_percentage,discussions_answered,rank_icon=github" />
  </a>
 
  <a href="https://github.com/Chukwu3meka/convoychat">
