@@ -1,8 +1,8 @@
-<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="24px"> I'm Chukwuemeka</h1>
+<h3 align="center">Hi 👋 I'm Chukwuemeka!</h3>
 
 I'm a Software developer with strong interest in web applications. My tech stack includes Playwright, Next.js (A react.js framework), Material-UI, Tailwind, SCSS, Express.js (A node.js framework), PostgreSQL, Mongoose, MongoDB and Git.
 
-I have 5+ years in building high-quality full-stack applications using JavaScript/Typescript. With proven track record of both freelance and full-time work since 2018, I have a strong understanding of common patterns and conventions used in codebases thanks to my contribution to open-source projects.
+I have 5+ years in building high-quality full-stack applications using JavaScript/Typescript. Over the years I have built a strong understanding of common patterns and conventions used in codebase thanks to my contribution to open-source projects and collaboration with developers coupled with my experience working as freelancer and full-time developer.
 
 While I hold a Bachelor's degree in Computer Science, I maintain a proactive approach to skill enhancement and staying current with industry trends. Currently, I am delving into the development of robust solutions using Rust, driven by its compelling features such as safety and performance.
 
@@ -20,7 +20,7 @@ While I hold a Bachelor's degree in Computer Science, I maintain a proactive app
 
 <p align="center" max-width=700>
  <a href="https://github.com/Chukwu3meka/github-readme-stats"  >
-  <img width=50% align="center" src="https://github-readme-stats.vercel.app/api?username=Chukwu3meka&show=discussions_started,discussions_answered" />
+  <img width=50% align="center" src="https://github-readme-stats.vercel.app/api?username=Chukwu3meka&show_icons=true&show=discussions_started,prs_merged,prs_merged_percentage,discussions_answered&rank_icon=github" />
  </a>
 
  <a href="https://github.com/Chukwu3meka/convoychat">
