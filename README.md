@@ -1,4 +1,4 @@
-<h3 align="center">Hi 👋 I'm Chukwuemeka!</h3>
+<h3 align="center"><a href="https://www.linkedin.com/in/chukwu3meka/">Hi 👋 I'm Chukwuemeka!</a></h3>
 
 I'm a Software developer with strong interest in web applications. My tech stack includes Playwright, Next.js (A react.js framework), Material-UI, Tailwind, SCSS, Express.js (A node.js framework), PostgreSQL, Mongoose, MongoDB and Git.
 
