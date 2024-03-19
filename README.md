@@ -1,10 +1,4 @@
-<h3 align="center"><a href="https://www.linkedin.com/in/chukwu3meka/">Hi 👋 I'm Chukwuemeka!</a></h3>
-
-I'm a Software developer with strong interest in web applications. My tech stack includes Playwright, Next.js (A react.js framework), Material-UI, Tailwind, SCSS, Express.js (A node.js framework), PostgreSQL, Mongoose, MongoDB and Git.
-
-I have 5+ years in building high-quality full-stack applications using JavaScript/Typescript. Over the years I have built a strong understanding of common patterns and conventions used in codebase thanks to my contribution to open-source projects and collaboration with developers coupled with my experience working as freelancer and full-time developer.
-
-While I hold a Bachelor's degree in Computer Science, I maintain a proactive approach to skill enhancement and staying current with industry trends. Currently, I am delving into the development of robust solutions using Rust, driven by its compelling features such as safety and performance.
+I have been developing and maintaining software for 5+ years using TypeScript and Rust. I'm a Computer Science graduate. Some of my favorite tools are Playwright, MUI, SCSS, Next.js, Express.js, PostgreSQL, MongoDB, Git and many more.
 
 ---
 
@@ -22,12 +16,8 @@ While I hold a Bachelor's degree in Computer Science, I maintain a proactive app
  <a href="https://github.com/Chukwu3meka/github-readme-stats"  >
   <img width=50% align="center" src="https://github-readme-stats.vercel.app/api?username=Chukwu3meka&show_icons=true&show=discussions_started,prs_merged,prs_merged_percentage,discussions_answered&rank_icon=github" />
  </a>
-
- <a href="https://github.com/Chukwu3meka/convoychat">
-  <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Chukwu3meka" />
- </a>
 </p>
 
 <br />
 
-> Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/chukwu3meka/) or take a look at my profile on [StackOverflow](https://stackoverflow.com/users/12490386).
+> Feel free to reach out to me on [WhatsApp](<tel:+234(706)-441-7213>)
