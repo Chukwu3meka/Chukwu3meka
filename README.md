@@ -20,4 +20,4 @@ With a BSc. degree in Computer Science. I have over 5+ years of developing and m
 - [Using Multiple MongoDB Databases in a Single Server with Node.js and TypeScript](https://chukwu3meka.medium.com/using-multiple-mongodb-databases-in-a-single-server-with-nodejs-and-typescript-f447e4628a80)
 - [Implementing Firebase Social Authentication with the Latest SDK (Version 9)](https://chukwu3meka.medium.com/firebase-social-authentication-with-latest-sdk-version-9-75e4eac57563)
 
-> Feel free to reach out to me +234(706)-441-7213
+> Feel free to reach out to me +234(706)4417213
