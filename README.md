@@ -1,4 +1,4 @@
-I have been developing and maintaining software for 5+ years using TypeScript and Rust. I'm a Computer Science graduate. Some of my favorite tools are Playwright, MUI, SCSS, Next.js, Express.js, PostgreSQL, MongoDB, Git and many more.
+With a BSc. degree in Computer Science. I have over 5+ years of developing and maintaining web applications using TypeScript and Rust. Favorite tools includes Playwright, MUI, SCSS, Next.js, Express.js, PostgreSQL, MongoDB, Git and many more.
 
 ---
 
