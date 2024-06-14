@@ -1,6 +1,4 @@
-With a BSc. degree in Computer Science. I have over 5+ years of developing and maintaining web applications using TypeScript and Rust. Favorite tools includes Playwright, MUI, SCSS, Next.js, Express.js, PostgreSQL, MongoDB, Git and many more.
-
----
+I am a full stack developer with expertise in TypeScript, Rust, JavaScript. I guarantee high-quality code, scalable applications, and love collaboration, with excellent problem-solving skills. I am always eager to learn and embrace new technologies.
 
 <br />
 
