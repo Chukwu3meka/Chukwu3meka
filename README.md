@@ -1,3 +1,5 @@
+<p align="center" max-width=700>
+
 I am a full stack developer with expertise in TypeScript, Rust, JavaScript. I guarantee high-quality code, scalable applications, and love collaboration, with excellent problem-solving skills. I am always eager to learn and embrace new technologies.
 
 <br />
@@ -12,10 +14,10 @@ I am a full stack developer with expertise in TypeScript, Rust, JavaScript. I gu
 
 <br />
 
-<p align="center" max-width=700>
  <a href="https://github.com/Chukwu3meka/github-readme-stats"  >
   <img width=50% align="center" src="https://github-readme-stats.vercel.app/api?username=Chukwu3meka&show_icons=true&show=discussions_started,prs_merged,prs_merged_percentage,discussions_answered&rank_icon=github" />
  </a>
-</p>
 
 > Feel free to reach out to me +234(706)4417213
+
+</p>
