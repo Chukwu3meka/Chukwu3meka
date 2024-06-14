@@ -1,6 +1,6 @@
 <div style="max-width: 600px; margin: 0 auto;">
 
-<p align="center" style="max-width: 100px; margin: 0 auto;">
+<p style="width: 100px; margin: 0 auto;">
 I am a full stack developer with expertise in TypeScript, Rust, JavaScript. I guarantee high-quality code, scalable applications, and love collaboration, with excellent problem-solving skills. I am always eager to learn and embrace new technologies.
 </p>
 
