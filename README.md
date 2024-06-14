@@ -1,4 +1,4 @@
-<p align="center" max-width=700>
+<p align="center" max-width="300px">
 
 I am a full stack developer with expertise in TypeScript, Rust, JavaScript. I guarantee high-quality code, scalable applications, and love collaboration, with excellent problem-solving skills. I am always eager to learn and embrace new technologies.
 
