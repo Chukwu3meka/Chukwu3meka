@@ -1,5 +1,10 @@
+Hi 👋
+
 <p style="width: 100px; margin: 0 auto;">
-I am a full stack developer with expertise in TypeScript, Rust, JavaScript. I guarantee high-quality code, scalable applications, and love collaboration, with excellent problem-solving skills. I am always eager to learn and embrace new technologies.
+I'm currently building a SASS - [WaveRD](https://www.waverd.com). I am a full stack developer with expertise in JavaScript/TypeScript with over 6 years actively building software solutions, contributing to open source and writing technical articles.
+
+Over the years, I have built production-ready scalable applications, and I love collaborate with experienced and aspiring devs to create applications that solve real world issues for a wide user base. In my leisure, I try to figure out how things are built, how they function, and why they were built in a specific way. I'm currently playing around with the Rust programming language and always eager to embrace new technologies.
+
 </p>
 
 ### Some articles I have published 📫
