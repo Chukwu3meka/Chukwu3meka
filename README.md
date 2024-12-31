@@ -1,10 +1,8 @@
 Hi 👋
 
 <p style="width: 100px; margin: 0 auto;">
-I'm currently building a SASS - [WaveRD](https://www.waverd.com). I am a full stack developer with expertise in JavaScript/TypeScript with over 6 years actively building software solutions, contributing to open source and writing technical articles.
-
-Over the years, I have built production-ready scalable applications, and I love collaborate with experienced and aspiring devs to create applications that solve real world issues for a wide user base. In my leisure, I try to figure out how things are built, how they function, and why they were built in a specific way. I'm currently playing around with the Rust programming language and always eager to embrace new technologies.
-
+SOFTWARE ENGINEER with over 6 years of experience in building responsive, user-friendly, and highly performant applications. I'm a highly motivated full-stack developer with a strong focus on frontend
+development. I have a track record of success in both full-time and freelance positions, and I'm well-versed in fintech, academic, search, sports, health, religious and banking webapps. Also, I am adept with standard software practices and conventions. In my current role at Zenith bank, I have developed and maintained trade applications serving millions of users.
 </p>
 
 ### Some articles I have published 📫
