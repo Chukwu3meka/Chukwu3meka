@@ -22,8 +22,3 @@ Over the years, I have built production-ready scalable applications, and I love 
   <img width=50% align="center" src="https://github-readme-stats.vercel.app/api?username=Chukwu3meka&show_icons=true&show=discussions_started,prs_merged,prs_merged_percentage,discussions_answered&rank_icon=github" />
  </a>
 </p>
-
-<br />
-<br />
-
-> Feel free to reach out to me +234(706)4417213
