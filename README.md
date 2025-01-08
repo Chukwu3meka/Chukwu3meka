@@ -1,49 +1,52 @@
+<!--  
+
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png"
 height="175px"/></a>
 
 <h4 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am Chukwuemeka.</h4>
 
+-->
 ### 🙋‍♂️ About Me
 Software developer with over 6 years of experience in building responsive, user-friendly, and highly performant applications. I'm a highly motivated full-stack developer with a strong focus on frontend development. I have a track record of success in both full-time and freelance positions, and I'm well-versed in finance, academic, search, and sports domain. Also, I am adept with standard software practices and conventions. In my current role at Zenith bank, I have developed and maintained trade applications serving millions of users. 
 
 
-## 🚀 Languages and Tools:
+<!-- ## 🚀 Languages and Tools:-->
 <p align="center">
-  <img width="20px" src="https://skillicons.dev/icons?i=ts" />
-  <img width="20px" src="https://skillicons.dev/icons?i=nextjs" />
-  <img width="20px" src="https://skillicons.dev/icons?i=vercel" />
-  <img width="20px" src="https://skillicons.dev/icons?i=vscode" />
-  <img width="20px" src="https://skillicons.dev/icons?i=git" />
-  <img width="20px" src="https://skillicons.dev/icons?i=github" />
-  <img width="20px" src="https://skillicons.dev/icons?i=mongodb" />
-  <img width="20px" src="https://skillicons.dev/icons?i=npm" />
-  <img width="20px" src="https://skillicons.dev/icons?i=pnpm" />
-  <img width="20px" src="https://skillicons.dev/icons?i=angular" />
-  <img width="20px" src="https://skillicons.dev/icons?i=express" />
-  <img width="20px" src="https://skillicons.dev/icons?i=nodejs" />
-  <img width="20px" src="https://skillicons.dev/icons?i=postman" />
-  <img width="20px" src="https://skillicons.dev/icons?i=redux" />
-  <img width="20px" src="https://skillicons.dev/icons?i=stackoverflow" />
-  <img width="20px" src="https://skillicons.dev/icons?i=svelte" />
-  <img width="20px" src="https://skillicons.dev/icons?i=tailwind" />
-  <img width="20px" src="https://skillicons.dev/icons?i=figma" />
-  <img width="20px" src="https://skillicons.dev/icons?i=firebase" />
-  <img width="20px" src="https://skillicons.dev/icons?i=gcp" />
-  <img width="20px" src="https://skillicons.dev/icons?i=githubactions" />
-  <img width="20px" src="https://skillicons.dev/icons?i=netlify" />
-  <img width="20px" src="https://skillicons.dev/icons?i=postgres" />
-  <img width="20px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png" />
-  <img width="20px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/playwright.png" />
-  <img width="20px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" />
-  <img width="20px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/shadcn_ui.png" />
-  <img width="20px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/material_ui.png" />
-  <img width="20px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ant_design.png" />
-  <img width="20px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sass.png" />
-  <img width="20px" src="https://skillicons.dev/icons?i=js" />
-  <img width="20px" src="https://skillicons.dev/icons?i=html" />
-  <img width="20px" src="https://skillicons.dev/icons?i=css" />
-  <img width="20px" src="https://skillicons.dev/icons?i=bash" />
-  <img width="20px" src="https://skillicons.dev/icons?i=elasticsearch" />
+  <img width="23px" src="https://skillicons.dev/icons?i=ts" />
+  <img width="23px" src="https://skillicons.dev/icons?i=nextjs" />
+  <img width="23px" src="https://skillicons.dev/icons?i=vercel" />
+  <img width="23px" src="https://skillicons.dev/icons?i=vscode" />
+  <img width="23px" src="https://skillicons.dev/icons?i=git" />
+  <img width="23px" src="https://skillicons.dev/icons?i=github" />
+  <img width="23px" src="https://skillicons.dev/icons?i=mongodb" />
+  <img width="23px" src="https://skillicons.dev/icons?i=npm" />
+  <img width="23px" src="https://skillicons.dev/icons?i=pnpm" />
+  <img width="23px" src="https://skillicons.dev/icons?i=angular" />
+  <img width="23px" src="https://skillicons.dev/icons?i=express" />
+  <img width="23px" src="https://skillicons.dev/icons?i=nodejs" />
+  <img width="23px" src="https://skillicons.dev/icons?i=postman" />
+  <img width="23px" src="https://skillicons.dev/icons?i=redux" />
+  <img width="23px" src="https://skillicons.dev/icons?i=stackoverflow" />
+  <img width="23px" src="https://skillicons.dev/icons?i=svelte" />
+  <img width="23px" src="https://skillicons.dev/icons?i=tailwind" />
+  <img width="23px" src="https://skillicons.dev/icons?i=figma" />
+  <img width="23px" src="https://skillicons.dev/icons?i=firebase" />
+  <img width="23px" src="https://skillicons.dev/icons?i=gcp" />
+  <img width="23px" src="https://skillicons.dev/icons?i=githubactions" />
+  <img width="23px" src="https://skillicons.dev/icons?i=netlify" />
+  <img width="23px" src="https://skillicons.dev/icons?i=postgres" />
+  <img width="23px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png" />
+  <img width="23px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/playwright.png" />
+  <img width="23px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" />
+  <img width="23px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/shadcn_ui.png" />
+  <img width="23px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/material_ui.png" />
+  <img width="23px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ant_design.png" />
+  <img width="23px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sass.png" />
+  <img width="23px" src="https://skillicons.dev/icons?i=js" />
+  <img width="23px" src="https://skillicons.dev/icons?i=html" />
+  <img width="23px" src="https://skillicons.dev/icons?i=css" />
+  <img width="23px" src="https://skillicons.dev/icons?i=bash" />
+  <img width="23px" src="https://skillicons.dev/icons?i=elasticsearch" />
 </p>
 
 
@@ -63,7 +66,12 @@ Software developer with over 6 years of experience in building responsive, user-
  </a>
 </p>
 
-### Connect with me 📫
+<br />
+<hr />
+<br />
+
+### Reach out to me on the folllowing Platforms<!-- 📫 -->
+
 <p align="center">
  <a href = "https://twitter.com/Chukwu3meka/"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
  <a href = "https://www.instagram.com/Chukwuemeka_Maduekwe"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
