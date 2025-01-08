@@ -26,14 +26,9 @@ Software developer with over 6 years of experience in building responsive, user-
   <img width="23px" src="https://skillicons.dev/icons?i=nodejs" />
   <img width="23px" src="https://skillicons.dev/icons?i=postman" />
   <img width="23px" src="https://skillicons.dev/icons?i=redux" />
-  <img width="23px" src="https://skillicons.dev/icons?i=stackoverflow" />
-  <img width="23px" src="https://skillicons.dev/icons?i=svelte" />
   <img width="23px" src="https://skillicons.dev/icons?i=tailwind" />
   <img width="23px" src="https://skillicons.dev/icons?i=figma" />
   <img width="23px" src="https://skillicons.dev/icons?i=firebase" />
-  <img width="23px" src="https://skillicons.dev/icons?i=gcp" />
-  <img width="23px" src="https://skillicons.dev/icons?i=githubactions" />
-  <img width="23px" src="https://skillicons.dev/icons?i=netlify" />
   <img width="23px" src="https://skillicons.dev/icons?i=postgres" />
   <img width="23px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png" />
   <img width="23px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/playwright.png" />
@@ -42,9 +37,6 @@ Software developer with over 6 years of experience in building responsive, user-
   <img width="23px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/material_ui.png" />
   <img width="23px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ant_design.png" />
   <img width="23px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sass.png" />
-  <img width="23px" src="https://skillicons.dev/icons?i=js" />
-  <img width="23px" src="https://skillicons.dev/icons?i=html" />
-  <img width="23px" src="https://skillicons.dev/icons?i=css" />
   <img width="23px" src="https://skillicons.dev/icons?i=bash" />
   <img width="23px" src="https://skillicons.dev/icons?i=elasticsearch" />
 </p>
