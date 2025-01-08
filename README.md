@@ -62,11 +62,11 @@ Software developer with over 6 years of experience in building responsive, user-
 <hr />
 <br />
 
-### Reach out to me on the folllowing Platforms<!-- 📫 -->
+### Reach out to me<!-- 📫 -->
 
 <p align="center">
  <a href = "https://twitter.com/Chukwu3meka/"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
- <a href = "https://www.instagram.com/Chukwuemeka_Maduekwe"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<!-- <a href = "https://www.instagram.com/Chukwuemeka_Maduekwe"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>  -->
  <a href = "https://medium.com/@chukwu3meka"><img width=40px src="https://raw.githubusercontent.com/omidnikrah/github-readme-medium/master/medium.png" /></a>
  <a href = "https://wa.me/qr/5KYEVNBVLVVSI1"><img src="https://img.icons8.com/fluent/48/000000/whatsapp.png"/></a>
  <a href="https://dev.to/chukwu3meka"><img width=40px src="https://skillicons.dev/icons?i=devto" /></a>
