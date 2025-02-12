@@ -58,7 +58,7 @@ Software developer with over 6 years of experience in building responsive, user-
  </a> -->
  <a href="https://github.com/Chukwu3meka/github-readme-stats">
 <!--   <img width=45% align="center" src="https://github-readme-stats.vercel.app/api?username=Chukwu3meka&show_icons=true&show=discussions_started,prs_merged,prs_merged_percentage,discussions_answered&rank_icon=github" /> -->
-  <img width=70% max-height=300px align="center" src="https://github-readme-stats.vercel.app/api?username=Chukwu3meka&show_icons=true&show=discussions_started,discussions_answered&rank_icon=github&hide=commits,prs" />
+  <img width=70% max-height=300px max-width=500px align="center" src="https://github-readme-stats.vercel.app/api?username=Chukwu3meka&show_icons=true&show=discussions_started,discussions_answered&rank_icon=github&hide=commits,prs" />
  </a>
 </p>
 
