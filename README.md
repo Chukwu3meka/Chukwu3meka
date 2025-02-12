@@ -7,7 +7,7 @@ height="175px"/></a>
 
 -->
 ### 🙋‍♂️ About Me
-Software developer with over 6 years of experience in building responsive, user-friendly, and highly performant applications. I'm a highly motivated full-stack developer with a strong focus on frontend development. I have a track record of success in both full-time and freelance positions, and I'm well-versed in finance, academic, search, and sports domain. Also, I am adept with standard software practices and conventions. In my current role at Zenith bank, I have developed and maintained trade applications serving millions of users. 
+Software developer with over 6 years of experience in building responsive, user-friendly, and highly performant applications. I have a track record of success in both full-time and freelance roles, and I'm well-versed in finance, academic, search, and sports domain. Also, I am adept with standard software practices and conventions. In my current role at Zenith bank, I have developed and maintained trade applications serving thousands of users.
 
 
 <!-- ## 🚀 Languages and Tools:-->
