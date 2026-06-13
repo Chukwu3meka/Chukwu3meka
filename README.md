@@ -35,7 +35,7 @@ Backed by working knowledge of Node.js (Express) and Rust (Axum), with familiari
   <img width="23px" src="https://skillicons.dev/icons?i=mongodb" />
   <img width="23px" src="https://skillicons.dev/icons?i=pnpm" />
   <img width="23px" src="https://skillicons.dev/icons?i=tailwind" />
-  <img width="23px" src="https://skillicons.dev/icons?i=bash" />
+  <img width="23px" src="https://skillicons.dev/icons?i=react" />
 </p>
 
 ### Some articles I have published ✨
