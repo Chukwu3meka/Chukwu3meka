@@ -40,8 +40,6 @@ Backed by working knowledge of Node.js (Express) and Rust (Axum), with familiari
   <img width="23px" src="https://skillicons.dev/icons?i=elasticsearch" />
 </p>
 
-<br />
-
 ### Some articles I have published ✨
 - [Securing Your App with Access and Refresh Tokens: A Practical Guide](https://medium.com/javascript-in-plain-english/securing-your-app-with-access-and-refresh-tokens-a-practical-guide-41d239ee5085)
 - [Exploring MongoDB Atlas Search with Practical Examples](https://chukwu3meka.medium.com/a-practical-example-using-mongodb-atlas-search-144ab2d4ed78)
