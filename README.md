@@ -11,33 +11,31 @@ Backed by working knowledge of Node.js (Express) and Rust (Axum), with familiari
 <br />
 
 <p align="center">
-  <img width="23px" src="https://skillicons.dev/icons?i=ts" />
-  <img width="23px" src="https://skillicons.dev/icons?i=nextjs" />
-  <img width="23px" src="https://skillicons.dev/icons?i=vercel" />
-  <img width="23px" src="https://skillicons.dev/icons?i=vscode" />
+  <img width="23px" src="https://skillicons.dev/icons?i=java" />
+  <img width="23px" src="https://skillicons.dev/icons?i=spring" />
+  <img width="23px" src="https://skillicons.dev/icons?i=hibernate" />
+  <img width="23px" src="https://skillicons.dev/icons?i=postgres" />
+  <img width="23px" src="https://skillicons.dev/icons?i=redis" />
+  <img width="23px" src="https://skillicons.dev/icons?i=kafka" />
+  <img width="23px" src="https://skillicons.dev/icons?i=docker" />
+  <img width="23px" src="https://skillicons.dev/icons?i=aws" />
+  <img width="23px" src="https://skillicons.dev/icons?i=githubactions" />
+  <img width="23px" src="https://skillicons.dev/icons?i=grafana" />
+  <img width="23px" src="https://skillicons.dev/icons?i=prometheus" />
+  <img width="23px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png" />
+  <img width="23px" src="https://skillicons.dev/icons?i=maven" />
   <img width="23px" src="https://skillicons.dev/icons?i=git" />
   <img width="23px" src="https://skillicons.dev/icons?i=github" />
-  <img width="23px" src="https://skillicons.dev/icons?i=mongodb" />
-  <img width="23px" src="https://skillicons.dev/icons?i=npm" />
-  <img width="23px" src="https://skillicons.dev/icons?i=pnpm" />
-  <img width="23px" src="https://skillicons.dev/icons?i=angular" />
-  <img width="23px" src="https://skillicons.dev/icons?i=express" />
-  <img width="23px" src="https://skillicons.dev/icons?i=nodejs" />
-  <img width="23px" src="https://skillicons.dev/icons?i=postman" />
-  <img width="23px" src="https://skillicons.dev/icons?i=redux" />
-  <img width="23px" src="https://skillicons.dev/icons?i=tailwind" />
-  <img width="23px" src="https://skillicons.dev/icons?i=figma" />
-  <img width="23px" src="https://skillicons.dev/icons?i=firebase" />
-  <img width="23px" src="https://skillicons.dev/icons?i=postgres" />
-  <img width="23px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png" />
-  <img width="23px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/playwright.png" />
-  <img width="23px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" />
-  <img width="23px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/shadcn_ui.png" />
-  <img width="23px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/material_ui.png" />
-  <img width="23px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/ant_design.png" />
-  <img width="23px" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/sass.png" />
   <img width="23px" src="https://skillicons.dev/icons?i=bash" />
-  <img width="23px" src="https://skillicons.dev/icons?i=elasticsearch" />
+  <img width="23px" src="https://skillicons.dev/icons?i=postman" />
+  <img width="23px" src="https://skillicons.dev/icons?i=nodejs" />
+  <img width="23px" src="https://skillicons.dev/icons?i=express" />
+  <img width="23px" src="https://skillicons.dev/icons?i=rust" />
+  <img width="23px" src="https://skillicons.dev/icons?i=ts" />
+  <img width="23px" src="https://skillicons.dev/icons?i=mongodb" />
+  <img width="23px" src="https://skillicons.dev/icons?i=pnpm" />
+  <img width="23px" src="https://skillicons.dev/icons?i=tailwind" />
+  <img width="23px" src="https://skillicons.dev/icons?i=bash" />
 </p>
 
 ### Some articles I have published ✨
